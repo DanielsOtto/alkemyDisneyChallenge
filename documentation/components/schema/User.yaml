@@ -1,0 +1,27 @@
+components:
+  schemas:
+    User:
+      type: object
+      properties:
+        name:
+          type: string
+          description: the name of the user.
+        lastname:
+          type: string
+          description: the lastname of the user.
+        email:
+          type: string
+          description: the email of the user.
+        password:
+          type: string
+          description: the password of the user.
+      required:
+        - name
+        - lastname
+        - email
+        - password
+      example:
+        name: Thomas
+        lastname: Tini
+        email: thomas.tini@test.com
+        password: encrypt123

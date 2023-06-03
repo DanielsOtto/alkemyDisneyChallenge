@@ -1,0 +1,45 @@
+paths:
+  /api/sessions/register:
+    post:
+      summary: Create user
+      tags:
+        - Sessions
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/User"
+      responses:
+        "201":
+          description: User created -> Object user.
+        "400":
+          description: Invalid argument.
+        "409":
+          description: Email is already registered.
+        "422":
+          description: Invalid format.
+        "500":
+          description: Email and password are required.
+  /api/sessions/authenticate:
+    post:
+      summary: Authenticate user, create a token
+      tags:
+        - Sessions
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/User"
+      responses:
+        "200":
+          description: User token.
+        "400":
+          description: Invalid argument.
+        "401":
+          description: Invalid credentials!
+        "422":
+          description: Invalid format.
+        "500":
+          description: Email and password are required.

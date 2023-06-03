@@ -1,0 +1,9 @@
+openapi: 3.0.0
+info:
+  title: API Documentation
+  version: 1.0.0
+tags:
+  - name: Characters
+    description: Endpoints related to characters
+  - name: Sessions
+    description: Endpoints related to sessions

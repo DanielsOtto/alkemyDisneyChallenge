@@ -1,0 +1,32 @@
+components:
+  schema:
+    Movie:
+      type: object
+      properties:
+        images:
+          type: string
+          description: the description of the movie
+        title:
+          type: string
+          description: the title of the movie
+        createData:
+          type: date
+          description: the date of creation of the movie
+        rating:
+          type: integer
+          description: the rating of the movie
+        genre:
+          type: string
+          description: the genre of the movie
+      required:
+        - image
+        - title
+        - createData
+        - rating
+        - genre
+      example:
+        image: testMovieImage.com
+        title: the first movie
+        createData: 01/01/50
+        rating: 9
+        genre: fantasy

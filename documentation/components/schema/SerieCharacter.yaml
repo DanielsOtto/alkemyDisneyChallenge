@@ -1,0 +1,12 @@
+components:
+  schemas:
+    SerieCharacter:
+      description: Internal model used for establishing relationships between series and characters.
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: The unique identifier for the table series_characters.
+      example:
+        id: abc123xyz456

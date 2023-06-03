@@ -1,0 +1,32 @@
+components:
+  schemas:
+    Character:
+      type: object
+      properties:
+        image:
+          type: string
+          description: the image of the character
+        name:
+          type: string
+          description: the name of the character
+        age:
+          type: integer
+          description: the age of the character
+        weight:
+          type: float
+          description: the weight of the character
+        history:
+          type: string
+          description: the history of the character
+      required:
+        - image
+        - name
+        - age
+        - weight
+        - history
+      example:
+        image: testimage.com
+        name: testChar
+        age: 77
+        weight: 23.2
+        history: the first character in disney world

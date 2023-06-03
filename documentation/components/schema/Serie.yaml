@@ -1,0 +1,32 @@
+components:
+  schema:
+    Serie:
+      type: object
+      properties:
+        images:
+          type: string
+          description: the description of the serie.
+        title:
+          type: string
+          description: the title of the serie.
+        createData:
+          type: date
+          description: the date of creation of the serie.
+        rating:
+          type: integer
+          description: the rating of the serie.
+        genre:
+          type: string
+          description: the genre of the serie.
+      required:
+        - image
+        - title
+        - createData
+        - rating
+        - genre
+      example:
+        image: testSerieImage.com
+        title: the first serie
+        createData: 01/01/60
+        rating: 8
+        genre: fantasy, terror

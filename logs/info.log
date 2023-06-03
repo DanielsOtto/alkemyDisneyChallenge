@@ -1,0 +1,1815 @@
+{"level":"info"[1/6/2023, 11:03:41],"pid":11700,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8000"}
+{"level":"info"[1/6/2023, 11:04:07],"pid":1568,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:04:39],"pid":2444,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:04:50],"pid":17856,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:04:53],"pid":1572,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:06:52],"pid":18308,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:07:08],"pid":8880,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:07:29],"pid":18300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:08:06],"pid":19320,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:08:24],"pid":19820,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:08:29],"pid":8724,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:08:37],"pid":15556,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:08:51],"pid":11356,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:08:56],"pid":15984,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:09:01],"pid":4152,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:09:19],"pid":9584,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:09:30],"pid":2620,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:09:38],"pid":18024,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:09:47],"pid":19972,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:10:25],"pid":10416,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:10:32],"pid":18280,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:10:43],"pid":19684,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:10:52],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:11:07],"pid":20424,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:11:15],"pid":2488,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:11:29],"pid":2780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:11:36],"pid":20132,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:11:47],"pid":11184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:11:58],"pid":4156,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:13:05],"pid":2652,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:14:27],"pid":17208,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:14:38],"pid":3128,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:15:30],"pid":19784,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:16:01],"pid":18952,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:16:02],"pid":18952,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:16:15],"pid":13712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:16:15],"pid":13712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:16:59],"pid":3416,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:16:59],"pid":3416,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:18:43],"pid":16316,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:18:43],"pid":16316,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:19:43],"pid":12336,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:19:43],"pid":12336,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:22:21],"pid":10376,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:22:21],"pid":10376,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:26:50],"pid":15408,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:26:50],"pid":15408,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:28:50],"pid":10164,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:28:50],"pid":10164,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:30:31],"pid":3852,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:30:31],"pid":3852,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:37:18],"pid":19040,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:37:18],"pid":19040,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:37:31],"pid":17952,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:37:31],"pid":17952,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:37:40],"pid":20352,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:37:40],"pid":20352,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:37:46],"pid":14500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:37:47],"pid":14500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:46:44],"pid":11020,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:46:44],"pid":11020,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:47:13],"pid":3068,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:47:13],"pid":3068,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:47:26],"pid":8352,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:47:26],"pid":8352,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:48:54],"pid":3784,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:48:54],"pid":3784,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:49:08],"pid":19028,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:49:08],"pid":19028,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:49:56],"pid":10748,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:49:56],"pid":10748,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:53:34],"pid":5676,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:53:34],"pid":5676,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:55:16],"pid":5920,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:55:16],"pid":5920,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:57:28],"pid":14216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:57:28],"pid":14216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 11:58:41],"pid":7112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 11:58:41],"pid":7112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:00:18],"pid":6404,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:00:18],"pid":6404,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:00:45],"pid":17108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:00:45],"pid":17108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:00:56],"pid":4612,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:00:56],"pid":4612,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:01:03],"pid":7952,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:01:03],"pid":7952,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:01:17],"pid":4068,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:01:17],"pid":4068,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:03:00],"pid":1632,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:03:00],"pid":1632,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:04:32],"pid":18792,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:04:32],"pid":18792,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:06:50],"pid":1260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:06:50],"pid":1260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:11:57],"pid":2372,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:11:58],"pid":2372,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:12:07],"pid":8576,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:12:07],"pid":8576,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:12:37],"pid":6740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:12:37],"pid":6740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:13:23],"pid":628,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:13:23],"pid":628,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:14:02],"pid":10108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:14:02],"pid":10108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:14:49],"pid":2512,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:14:49],"pid":2512,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:14:53],"pid":7104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:14:53],"pid":7104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:14:55],"pid":12552,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:14:55],"pid":12552,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:15:04],"pid":16244,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:15:04],"pid":16244,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:16:00],"pid":10552,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:16:00],"pid":10552,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:18:12],"pid":1348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:18:12],"pid":1348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:18:15],"pid":2156,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:18:15],"pid":2156,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:19:28],"pid":15080,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:19:28],"pid":15080,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:20:21],"pid":4216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:20:21],"pid":4216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:20:51],"pid":15188,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:20:51],"pid":15188,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:22:22],"pid":13788,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:22:22],"pid":13788,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:23:20],"pid":14244,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:23:20],"pid":14244,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:26:49],"pid":13096,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:26:49],"pid":13096,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 12:39:38],"pid":6636,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 12:39:38],"pid":6636,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 13:46:40],"pid":11896,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 13:46:40],"pid":11896,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 13:49:30],"pid":4724,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 13:49:30],"pid":4724,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 13:50:00],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 13:50:00],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 13:53:26],"pid":12904,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 13:53:26],"pid":12904,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:05:38],"pid":17072,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:05:38],"pid":17072,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:05:55],"pid":15600,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:05:55],"pid":15600,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:06:05],"pid":14736,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:06:05],"pid":14736,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:06:14],"pid":2120,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:06:14],"pid":2120,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:06:21],"pid":16276,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:06:21],"pid":16276,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:06:59],"pid":1956,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:06:59],"pid":1956,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:07:06],"pid":19996,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:07:06],"pid":19996,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:07:12],"pid":15676,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:07:12],"pid":15676,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:07:51],"pid":16544,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:07:51],"pid":16544,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:07:59],"pid":12472,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:07:59],"pid":12472,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:09:24],"pid":6104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:09:24],"pid":6104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:11:31],"pid":16724,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:11:31],"pid":16724,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:12:31],"pid":376,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:12:31],"pid":376,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:15:57],"pid":2592,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:15:57],"pid":2592,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:16:14],"pid":7908,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:16:14],"pid":7908,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:16:16],"pid":14236,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:16:16],"pid":14236,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:17:09],"pid":12152,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:17:09],"pid":12152,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:17:14],"pid":1068,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:17:14],"pid":1068,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:17:16],"pid":15188,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:17:16],"pid":15188,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:17:34],"pid":19776,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:17:34],"pid":19776,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:18:09],"pid":19476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:18:10],"pid":19476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:18:17],"pid":6768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:18:17],"pid":6768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:18:24],"pid":4800,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:18:24],"pid":4800,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:18:28],"pid":15748,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:18:28],"pid":15748,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:19:48],"pid":19812,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:19:48],"pid":19812,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:20:43],"pid":16456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:20:43],"pid":16456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:21:36],"pid":19124,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:21:36],"pid":19124,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:22:32],"pid":4956,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:22:32],"pid":4956,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:26:57],"pid":13272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:26:57],"pid":13272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:27:29],"pid":13808,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:27:29],"pid":13808,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:27:41],"pid":15436,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:27:41],"pid":15436,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:27:46],"pid":4848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:27:46],"pid":4848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:28:13],"pid":15872,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:28:13],"pid":15872,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:28:25],"pid":10124,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:28:25],"pid":10124,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:28:36],"pid":12672,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:28:36],"pid":12672,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:28:51],"pid":19660,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:28:51],"pid":19660,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:29:09],"pid":12768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:29:09],"pid":12768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:29:41],"pid":7592,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:29:41],"pid":7592,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:33:19],"pid":19828,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:33:19],"pid":19828,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:35:31],"pid":14204,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:35:31],"pid":14204,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:35:44],"pid":8512,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:35:44],"pid":8512,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:35:53],"pid":7056,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:35:53],"pid":7056,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:36:01],"pid":20328,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:36:01],"pid":20328,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:36:08],"pid":3500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:36:08],"pid":3500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:36:51],"pid":19652,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:36:51],"pid":19652,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:37:43],"pid":20032,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:37:43],"pid":20032,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:40:03],"pid":1212,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:40:03],"pid":1212,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:40:13],"pid":4000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:40:13],"pid":4000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:40:29],"pid":19476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:40:29],"pid":19476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:41:17],"pid":1380,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:41:17],"pid":1380,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:41:19],"pid":16872,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:41:19],"pid":16872,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:41:51],"pid":4848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:41:51],"pid":4848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:41:53],"pid":11708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:41:53],"pid":11708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:42:10],"pid":8956,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:42:10],"pid":8956,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:43:46],"pid":12768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:43:46],"pid":12768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:44:19],"pid":9804,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:44:20],"pid":9804,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:45:54],"pid":1624,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:45:54],"pid":1624,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:46:55],"pid":2104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:46:55],"pid":2104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:56:04],"pid":2752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:56:04],"pid":2752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:56:54],"pid":8576,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:56:54],"pid":8576,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:57:27],"pid":13740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:57:27],"pid":13740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 14:57:34],"pid":14212,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 14:57:34],"pid":14212,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:00:31],"pid":18276,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:00:31],"pid":18276,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:00:55],"pid":10108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:00:55],"pid":10108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:01:27],"pid":15812,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:01:27],"pid":15812,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:01:37],"pid":18308,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:01:37],"pid":18308,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:01:44],"pid":16480,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:01:44],"pid":16480,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:02:03],"pid":10124,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:02:03],"pid":10124,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:02:21],"pid":12012,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:02:21],"pid":12012,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:02:48],"pid":18324,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:02:48],"pid":18324,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:03:04],"pid":2444,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:03:04],"pid":2444,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:03:12],"pid":6060,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:03:12],"pid":6060,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:03:23],"pid":12472,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:03:23],"pid":12472,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:03:46],"pid":8752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:03:46],"pid":8752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:03:55],"pid":17696,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:03:55],"pid":17696,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:04:05],"pid":19776,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:04:05],"pid":19776,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:04:17],"pid":7132,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:04:17],"pid":7132,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:04:24],"pid":19432,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:04:24],"pid":19432,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:04:32],"pid":13752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:04:32],"pid":13752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:04:37],"pid":10516,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:04:37],"pid":10516,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:04:45],"pid":8184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:04:45],"pid":8184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:05:08],"pid":20212,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:05:08],"pid":20212,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:05:14],"pid":17392,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:05:14],"pid":17392,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:05:54],"pid":14128,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:05:54],"pid":14128,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:06:04],"pid":16904,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:06:04],"pid":16904,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:06:21],"pid":15696,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:06:21],"pid":15696,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:06:31],"pid":9144,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:06:31],"pid":9144,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:06:39],"pid":512,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:06:39],"pid":512,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:07:09],"pid":6132,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:07:09],"pid":6132,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:07:13],"pid":14708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:07:14],"pid":14708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:07:22],"pid":9384,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:07:22],"pid":9384,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:07:35],"pid":17644,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:07:35],"pid":17644,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:08:16],"pid":18808,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:08:16],"pid":18808,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:08:34],"pid":912,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:08:34],"pid":912,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:09:08],"pid":7352,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:09:08],"pid":7352,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:09:25],"pid":19260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:09:25],"pid":19260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:09:36],"pid":5936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:09:36],"pid":5936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:10:05],"pid":8348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:10:05],"pid":8348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:10:29],"pid":9144,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:10:29],"pid":9144,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:12:47],"pid":8712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:12:47],"pid":8712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:13:18],"pid":2312,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:13:18],"pid":2312,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:14:06],"pid":14236,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:14:06],"pid":14236,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:15:25],"pid":1472,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:15:25],"pid":1472,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:16:23],"pid":4332,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:16:23],"pid":4332,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:16:35],"pid":18100,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:16:35],"pid":18100,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:16:56],"pid":20084,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:16:56],"pid":20084,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:17:05],"pid":3984,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:17:05],"pid":3984,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:18:01],"pid":18404,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:18:01],"pid":18404,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:21:26],"pid":19260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:21:26],"pid":19260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:21:30],"pid":8712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:21:30],"pid":8712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:22:24],"pid":2776,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:22:24],"pid":2776,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:22:40],"pid":11020,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:22:40],"pid":11020,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:23:14],"pid":18356,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:23:14],"pid":18356,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:23:19],"pid":18376,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:23:19],"pid":18376,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:25:37],"pid":3664,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:25:37],"pid":3664,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:26:02],"pid":18716,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:26:02],"pid":18716,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:26:05],"pid":5252,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:26:05],"pid":5252,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:26:11],"pid":16292,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:26:11],"pid":16292,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:27:42],"pid":19236,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:27:42],"pid":19236,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:27:46],"pid":19044,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:27:46],"pid":19044,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:27:48],"pid":15128,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:27:48],"pid":15128,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:28:35],"pid":17608,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:28:35],"pid":17608,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:28:46],"pid":9836,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:28:46],"pid":9836,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:29:04],"pid":19184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:29:04],"pid":19184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:29:46],"pid":5028,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:29:46],"pid":5028,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:30:25],"pid":8432,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:30:25],"pid":8432,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:30:39],"pid":16144,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:30:39],"pid":16144,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:31:24],"pid":14640,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:31:24],"pid":14640,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:31:27],"pid":9764,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:31:27],"pid":9764,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:34:11],"pid":14596,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:34:11],"pid":14596,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:36:49],"pid":13644,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:36:49],"pid":13644,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:37:24],"pid":1200,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:37:24],"pid":1200,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:38:55],"pid":19168,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:38:55],"pid":19168,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:39:13],"pid":6484,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:39:13],"pid":6484,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:40:02],"pid":20208,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:40:02],"pid":20208,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:40:27],"pid":5756,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:40:27],"pid":5756,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:41:14],"pid":2756,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:41:14],"pid":2756,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:41:56],"pid":11164,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:41:56],"pid":11164,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:42:15],"pid":16964,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:42:15],"pid":16964,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:42:26],"pid":11968,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:42:26],"pid":11968,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:42:47],"pid":15240,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:42:47],"pid":15240,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:42:58],"pid":15812,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:42:58],"pid":15812,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:43:08],"pid":12096,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:43:08],"pid":12096,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:43:35],"pid":368,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:43:35],"pid":368,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:43:55],"pid":16480,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:43:55],"pid":16480,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:44:39],"pid":1620,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:44:39],"pid":1620,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:44:54],"pid":14304,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:44:54],"pid":14304,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:45:00],"pid":7328,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:45:00],"pid":7328,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:45:12],"pid":13076,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:45:12],"pid":13076,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:45:23],"pid":15696,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:45:23],"pid":15696,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:45:47],"pid":20288,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:45:47],"pid":20288,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:46:00],"pid":16264,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:46:00],"pid":16264,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:47:03],"pid":20076,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:47:03],"pid":20076,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:47:07],"pid":17160,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:47:07],"pid":17160,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:47:50],"pid":9316,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:47:50],"pid":9316,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:48:01],"pid":14156,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:48:01],"pid":14156,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:49:40],"pid":456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:49:40],"pid":456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:50:01],"pid":20208,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:50:01],"pid":20208,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:50:27],"pid":8712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:50:27],"pid":8712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:53:56],"pid":5756,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:53:56],"pid":5756,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:54:34],"pid":19348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:54:34],"pid":19348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:55:15],"pid":20132,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:55:15],"pid":20132,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:55:29],"pid":18488,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:55:29],"pid":18488,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:57:18],"pid":5740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:57:32],"pid":10092,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:57:32],"pid":10092,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:58:00],"pid":9980,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:58:00],"pid":9980,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 15:58:17],"pid":16964,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 15:58:18],"pid":16964,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:05:08],"pid":8404,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:05:08],"pid":8404,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:11:40],"pid":5456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:11:40],"pid":5456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:11:58],"pid":5248,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:11:59],"pid":5248,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:12:08],"pid":9112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:12:08],"pid":9112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:12:09],"pid":7240,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:12:09],"pid":7240,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:14:19],"pid":11364,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:14:19],"pid":11364,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:14:54],"pid":5412,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:14:54],"pid":5412,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:15:25],"pid":9040,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:15:25],"pid":9040,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:16:14],"pid":14564,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:16:14],"pid":14564,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:16:54],"pid":3232,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:16:54],"pid":3232,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:17:08],"pid":4376,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:17:08],"pid":4376,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:19:31],"pid":12612,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:19:31],"pid":12612,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:20:33],"pid":10116,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:20:33],"pid":10116,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:36:32],"pid":5460,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:36:52],"pid":15936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:36:52],"pid":15936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:48:09],"pid":19484,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:48:09],"pid":19484,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:48:27],"pid":3276,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:48:27],"pid":3276,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:52:41],"pid":8768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:52:41],"pid":8768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:53:00],"pid":4216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:53:00],"pid":4216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:53:59],"pid":8576,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:53:59],"pid":8576,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:54:07],"pid":8528,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:54:07],"pid":8528,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:54:38],"pid":7908,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:54:38],"pid":7908,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:54:53],"pid":15080,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:54:53],"pid":15080,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:55:08],"pid":14708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:55:08],"pid":14708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:56:48],"pid":14244,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:56:48],"pid":14244,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:57:53],"pid":5540,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:57:53],"pid":5540,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:59:26],"pid":20440,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:59:26],"pid":20440,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 16:59:43],"pid":15700,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 16:59:43],"pid":15700,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:00:32],"pid":14372,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:00:32],"pid":14372,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:13:19],"pid":2188,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:13:19],"pid":2188,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:18:01],"pid":17508,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:18:01],"pid":17508,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:18:30],"pid":16400,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:18:31],"pid":16400,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:19:20],"pid":12424,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:19:20],"pid":12424,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:20:28],"pid":8636,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:20:28],"pid":8636,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:21:28],"pid":3368,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:21:28],"pid":3368,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:24:41],"pid":10972,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:24:41],"pid":10972,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:25:23],"pid":20184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:25:23],"pid":20184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:25:27],"pid":20084,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:25:27],"pid":20084,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:27:39],"pid":18892,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:27:39],"pid":18892,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:28:28],"pid":19760,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:28:28],"pid":19760,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:28:33],"pid":16364,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:28:33],"pid":16364,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:29:00],"pid":20456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:29:00],"pid":20456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:30:29],"pid":7536,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:30:29],"pid":7536,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:31:09],"pid":19568,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:31:09],"pid":19568,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:31:51],"pid":10288,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:31:51],"pid":10288,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:32:32],"pid":668,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:32:32],"pid":668,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:33:03],"pid":6504,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:33:03],"pid":6504,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:33:11],"pid":3808,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:33:11],"pid":3808,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:34:00],"pid":13888,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:34:00],"pid":13888,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:34:05],"pid":15188,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:34:06],"pid":15188,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:34:08],"pid":8440,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:34:08],"pid":8440,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:34:24],"pid":9540,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:34:24],"pid":9540,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:35:35],"pid":8016,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:35:35],"pid":8016,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:36:04],"pid":5700,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:36:04],"pid":5700,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:36:07],"pid":14492,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:36:07],"pid":14492,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:36:09],"pid":19860,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:36:09],"pid":19860,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:37:05],"pid":15520,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:37:05],"pid":15520,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:37:18],"pid":16680,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:37:18],"pid":16680,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:38:15],"pid":13760,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:38:15],"pid":13760,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:38:34],"pid":9336,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:38:34],"pid":9336,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:39:08],"pid":1052,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:39:08],"pid":1052,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:39:26],"pid":13308,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:39:26],"pid":13308,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:39:32],"pid":6768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:39:32],"pid":6768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:40:38],"pid":18912,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:40:38],"pid":18912,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:40:50],"pid":18048,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:40:50],"pid":18048,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:42:26],"pid":19628,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:42:26],"pid":19628,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:42:43],"pid":7780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:42:43],"pid":7780,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:44:28],"pid":14128,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:44:28],"pid":14128,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 17:44:32],"pid":19440,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 17:44:32],"pid":19440,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:03:15],"pid":12336,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:03:15],"pid":12336,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:04:04],"pid":504,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:04:04],"pid":504,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:04:16],"pid":11288,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:04:16],"pid":11288,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:04:52],"pid":19184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:04:53],"pid":19184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:05:19],"pid":9560,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:05:19],"pid":9560,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:05:38],"pid":7464,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:05:38],"pid":7464,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:06:09],"pid":12332,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:06:09],"pid":12332,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:08:46],"pid":3300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:08:46],"pid":3300,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:09:10],"pid":10620,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:09:11],"pid":10620,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:10:38],"pid":10816,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:10:38],"pid":10816,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:11:32],"pid":11164,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:11:32],"pid":11164,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:11:57],"pid":7948,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:11:57],"pid":7948,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:15:56],"pid":17108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:15:56],"pid":17108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:16:56],"pid":8188,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:16:56],"pid":8188,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:20:25],"pid":15436,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:20:25],"pid":15436,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:23:18],"pid":13752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:23:18],"pid":13752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:23:42],"pid":11124,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:23:42],"pid":11124,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:23:53],"pid":17696,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:23:54],"pid":17696,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:24:32],"pid":4376,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:24:32],"pid":4376,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:24:59],"pid":19300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:25:00],"pid":19300,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:25:06],"pid":15476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:25:06],"pid":15476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:25:38],"pid":3176,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:25:38],"pid":3176,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:26:17],"pid":12544,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:26:17],"pid":12544,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:26:40],"pid":5416,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:26:40],"pid":5416,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:26:46],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:26:46],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:27:02],"pid":7824,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:27:02],"pid":7824,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:27:09],"pid":4468,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:27:09],"pid":4468,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:28:19],"pid":9272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:28:19],"pid":9272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:28:44],"pid":2284,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:28:44],"pid":2284,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:28:53],"pid":5532,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:28:53],"pid":5532,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:28:58],"pid":8300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:28:58],"pid":8300,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:29:57],"pid":15208,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:29:57],"pid":15208,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:30:04],"pid":16520,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:30:04],"pid":16520,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:30:51],"pid":10116,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:30:51],"pid":10116,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:30:55],"pid":2324,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:30:55],"pid":2324,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:31:12],"pid":17396,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:31:12],"pid":17396,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:31:29],"pid":9836,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:31:29],"pid":9836,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:31:31],"pid":18436,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:31:31],"pid":18436,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:31:41],"pid":6836,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:31:41],"pid":6836,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:32:12],"pid":12632,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:32:13],"pid":12632,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:32:28],"pid":16600,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:32:28],"pid":16600,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:32:50],"pid":16788,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:32:50],"pid":16788,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:32:58],"pid":11156,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:32:58],"pid":11156,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:33:08],"pid":17004,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:33:08],"pid":17004,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:33:41],"pid":15348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:33:41],"pid":15348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:33:47],"pid":7336,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:33:47],"pid":7336,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:34:22],"pid":13368,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:34:22],"pid":13368,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:35:11],"pid":15720,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:35:11],"pid":15720,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:35:35],"pid":2368,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:35:35],"pid":2368,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:35:58],"pid":19640,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:35:58],"pid":19640,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:37:23],"pid":15112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:37:23],"pid":15112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:37:33],"pid":11948,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:37:33],"pid":11948,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:39:10],"pid":19524,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:39:10],"pid":19524,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:40:21],"pid":18952,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:40:21],"pid":18952,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:42:15],"pid":14420,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:42:15],"pid":14420,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:44:15],"pid":13132,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:44:15],"pid":13132,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:45:57],"pid":14312,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:45:57],"pid":14312,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:49:06],"pid":8544,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:49:07],"pid":8544,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[1/6/2023, 18:51:05],"pid":1220,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[1/6/2023, 18:51:05],"pid":1220,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:11:35],"pid":1768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:11:36],"pid":1768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:17:48],"pid":19660,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:17:48],"pid":19660,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:18:25],"pid":2740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:18:25],"pid":2740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:19:04],"pid":11848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:19:04],"pid":11848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:20:44],"pid":9556,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:20:44],"pid":9556,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:28:29],"pid":7000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:28:29],"pid":7000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:28:57],"pid":17744,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:28:57],"pid":17744,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:29:49],"pid":14120,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:29:49],"pid":14120,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:30:04],"pid":15464,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:30:04],"pid":15464,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:31:23],"pid":3456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:31:23],"pid":3456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:31:58],"pid":7336,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:31:58],"pid":7336,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:33:46],"pid":6916,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:33:46],"pid":6916,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:34:00],"pid":8320,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:34:00],"pid":8320,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:34:39],"pid":18940,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:34:39],"pid":18940,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:34:42],"pid":14472,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:34:42],"pid":14472,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:35:01],"pid":17092,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:35:01],"pid":17092,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:35:46],"pid":3540,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:35:46],"pid":3540,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:36:25],"pid":18300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:36:25],"pid":18300,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:38:14],"pid":15484,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:38:15],"pid":15484,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:38:22],"pid":15180,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:38:22],"pid":15180,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:40:17],"pid":10036,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:40:17],"pid":10036,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:40:45],"pid":21364,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:40:45],"pid":21364,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:41:26],"pid":8708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:41:26],"pid":8708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:43:50],"pid":20272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:43:50],"pid":20272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:44:13],"pid":9980,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:44:13],"pid":9980,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:44:47],"pid":12804,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:44:47],"pid":12804,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:44:57],"pid":20936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:44:57],"pid":20936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:45:13],"pid":16396,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:45:13],"pid":16396,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:45:25],"pid":12780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:45:26],"pid":12780,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:45:37],"pid":10976,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:45:37],"pid":10976,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:47:35],"pid":9884,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:47:35],"pid":9884,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:48:39],"pid":17824,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:48:40],"pid":17824,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:51:35],"pid":21124,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:51:35],"pid":21124,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:53:05],"pid":16748,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:53:05],"pid":16748,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:53:21],"pid":7068,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:53:21],"pid":7068,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:53:55],"pid":6272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:53:55],"pid":6272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:54:07],"pid":15808,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:54:07],"pid":15808,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:55:11],"pid":13920,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:55:11],"pid":13920,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:55:32],"pid":7740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:55:32],"pid":7740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:55:42],"pid":18120,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:55:42],"pid":18120,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:56:05],"pid":9420,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:56:05],"pid":9420,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:57:39],"pid":2756,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:57:39],"pid":2756,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:57:48],"pid":2016,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:57:48],"pid":2016,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:59:43],"pid":13652,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:59:43],"pid":13652,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 10:59:51],"pid":11904,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 10:59:51],"pid":11904,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:00:24],"pid":11276,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:00:24],"pid":11276,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:01:34],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:01:34],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:03:16],"pid":9968,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:03:16],"pid":9968,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:03:56],"pid":8936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:03:56],"pid":8936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:04:55],"pid":9456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:04:55],"pid":9456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:05:53],"pid":1228,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:05:53],"pid":1228,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:06:00],"pid":11724,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:06:00],"pid":11724,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:06:55],"pid":7980,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:06:55],"pid":7980,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:08:21],"pid":14580,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:08:21],"pid":14580,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:08:38],"pid":1740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:08:38],"pid":1740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:09:24],"pid":2836,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:09:24],"pid":2836,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:09:30],"pid":14848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:09:30],"pid":14848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:09:38],"pid":20704,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:09:38],"pid":20704,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:09:53],"pid":7892,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:09:53],"pid":7892,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:10:12],"pid":17364,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:10:12],"pid":17364,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:11:31],"pid":16264,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:11:31],"pid":16264,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:12:31],"pid":9728,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:12:31],"pid":9728,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:16:27],"pid":2276,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:16:27],"pid":2276,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:17:28],"pid":21308,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:17:28],"pid":21308,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:18:16],"pid":11692,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:18:16],"pid":11692,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:18:43],"pid":17892,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:18:43],"pid":17892,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:19:38],"pid":21064,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:19:38],"pid":21064,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:20:18],"pid":12736,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:20:18],"pid":12736,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:20:46],"pid":19496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:20:46],"pid":19496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:21:37],"pid":16612,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:21:37],"pid":16612,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:26:57],"pid":12924,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:26:57],"pid":12924,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:28:01],"pid":20260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:28:01],"pid":20260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:29:55],"pid":13144,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:29:55],"pid":13144,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:30:31],"pid":14388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:30:31],"pid":14388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:31:38],"pid":7672,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:31:38],"pid":7672,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:32:51],"pid":10456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:32:51],"pid":10456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:34:13],"pid":12136,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:34:13],"pid":12136,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:34:20],"pid":6044,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:34:21],"pid":6044,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:34:49],"pid":10148,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:34:49],"pid":10148,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:35:08],"pid":17812,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:35:08],"pid":17812,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:35:21],"pid":18748,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:35:21],"pid":18748,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:36:03],"pid":3196,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:36:03],"pid":3196,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:36:40],"pid":16164,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:36:40],"pid":16164,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:37:33],"pid":3468,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:37:33],"pid":3468,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:37:43],"pid":8840,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:37:43],"pid":8840,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:39:03],"pid":1048,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:39:03],"pid":1048,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:39:40],"pid":1572,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:39:40],"pid":1572,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:42:01],"pid":5740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:42:01],"pid":5740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:42:16],"pid":9344,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:42:16],"pid":9344,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:42:37],"pid":20832,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:42:37],"pid":20832,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:42:55],"pid":17580,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:42:55],"pid":17580,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:42:59],"pid":13872,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:42:59],"pid":13872,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:43:19],"pid":19848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:43:19],"pid":19848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:43:40],"pid":16660,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:43:40],"pid":16660,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:47:08],"pid":8952,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:47:08],"pid":8952,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:47:30],"pid":10256,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:47:30],"pid":10256,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:48:19],"pid":5908,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:48:19],"pid":5908,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:49:08],"pid":17812,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:49:08],"pid":17812,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:49:54],"pid":12280,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:49:54],"pid":12280,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:55:01],"pid":9704,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:55:02],"pid":9704,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:56:30],"pid":17532,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:56:30],"pid":17532,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 11:59:42],"pid":10220,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 11:59:42],"pid":10220,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:00:27],"pid":6544,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:00:27],"pid":6544,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:03:12],"pid":15916,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:03:12],"pid":15916,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:04:06],"pid":1096,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:04:06],"pid":1096,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:14:04],"pid":9888,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:14:04],"pid":9888,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:14:34],"pid":17260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:14:34],"pid":17260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:17:49],"pid":2100,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:17:50],"pid":2100,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:19:23],"pid":20868,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:19:23],"pid":20868,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:21:49],"pid":3712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:21:49],"pid":3712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:21:52],"pid":4252,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:21:52],"pid":4252,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:24:19],"pid":15396,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:24:19],"pid":15396,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:24:35],"pid":9136,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:24:35],"pid":9136,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:25:24],"pid":11820,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:25:25],"pid":11820,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:26:15],"pid":20940,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:26:15],"pid":20940,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:26:25],"pid":7444,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:26:25],"pid":7444,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:26:48],"pid":19184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:26:48],"pid":19184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:27:26],"pid":6216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:27:26],"pid":6216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:29:00],"pid":14060,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:29:00],"pid":14060,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:32:13],"pid":9300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:32:13],"pid":9300,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:32:48],"pid":11176,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:32:48],"pid":11176,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:33:03],"pid":11752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:33:03],"pid":11752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:34:43],"pid":15560,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:34:43],"pid":15560,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:38:02],"pid":8952,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:38:02],"pid":8952,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:38:11],"pid":5204,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:38:11],"pid":5204,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:38:21],"pid":15476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:38:21],"pid":15476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:38:37],"pid":5532,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:38:37],"pid":5532,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:39:01],"pid":10456,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:39:01],"pid":10456,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:41:43],"pid":13396,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:41:43],"pid":13396,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:42:13],"pid":14640,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:42:13],"pid":14640,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:43:10],"pid":15916,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:43:10],"pid":15916,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:43:46],"pid":8476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:43:47],"pid":8476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:46:12],"pid":6892,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:46:12],"pid":6892,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:48:09],"pid":20880,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:48:09],"pid":20880,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:50:02],"pid":8216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:50:02],"pid":8216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:55:11],"pid":16848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:55:11],"pid":16848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 12:57:11],"pid":18508,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 12:57:11],"pid":18508,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:00:16],"pid":12496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:00:16],"pid":12496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:00:57],"pid":7852,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:00:57],"pid":7852,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:02:32],"pid":11672,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:02:32],"pid":11672,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:03:20],"pid":11028,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:03:20],"pid":11028,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:03:33],"pid":3268,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:03:33],"pid":3268,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:03:38],"pid":18864,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:03:38],"pid":18864,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:04:23],"pid":3084,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:04:23],"pid":3084,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:04:26],"pid":20936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:04:26],"pid":20936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 13:04:37],"pid":10264,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 13:04:37],"pid":10264,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:16:09],"pid":17744,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:16:09],"pid":17744,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:20:18],"pid":17904,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:20:18],"pid":17904,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:23:15],"pid":10072,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:23:15],"pid":10072,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:24:21],"pid":7136,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:24:21],"pid":7136,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:28:51],"pid":15044,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:28:51],"pid":15044,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:30:55],"pid":7596,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:30:55],"pid":7596,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:31:19],"pid":3720,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:31:19],"pid":3720,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:32:14],"pid":9444,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:32:14],"pid":9444,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:34:29],"pid":19076,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:34:29],"pid":19076,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:34:42],"pid":15752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:34:42],"pid":15752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:35:14],"pid":6360,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:35:14],"pid":6360,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:37:01],"pid":6060,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:37:01],"pid":6060,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:38:06],"pid":17904,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:38:06],"pid":17904,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:38:54],"pid":2404,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:38:55],"pid":2404,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:39:14],"pid":15348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:39:14],"pid":15348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:39:46],"pid":18540,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:39:46],"pid":18540,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:39:58],"pid":4388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:39:59],"pid":4388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:40:18],"pid":7792,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:40:18],"pid":7792,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:40:28],"pid":1632,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:40:28],"pid":1632,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:40:35],"pid":10804,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:40:35],"pid":10804,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:40:50],"pid":17048,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:40:50],"pid":17048,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:42:39],"pid":12312,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:42:39],"pid":12312,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:52:10],"pid":8740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:52:10],"pid":8740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:52:34],"pid":12056,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:52:34],"pid":12056,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:52:37],"pid":11764,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:52:37],"pid":11764,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:53:03],"pid":19208,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:53:03],"pid":19208,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:54:09],"pid":17944,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:54:09],"pid":17944,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:54:43],"pid":7956,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:54:43],"pid":7956,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:55:44],"pid":17108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:55:44],"pid":17108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:56:39],"pid":20488,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:56:39],"pid":20488,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:56:55],"pid":3084,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:56:55],"pid":3084,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:58:13],"pid":15080,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:58:13],"pid":15080,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 14:59:25],"pid":10184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 14:59:25],"pid":10184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 15:00:01],"pid":15664,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 15:00:01],"pid":15664,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 15:01:24],"pid":10036,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 15:01:24],"pid":10036,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 15:01:33],"pid":21472,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 15:01:33],"pid":21472,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 15:03:14],"pid":18216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 15:03:14],"pid":18216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 15:04:53],"pid":1496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 15:04:53],"pid":1496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 15:04:57],"pid":5068,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 15:04:57],"pid":5068,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:25:41],"pid":9884,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:25:41],"pid":9884,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:34:37],"pid":17272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:34:37],"pid":17272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:40:11],"pid":20404,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:40:11],"pid":20404,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:40:36],"pid":14180,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:40:36],"pid":14180,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:44:13],"pid":1948,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:44:13],"pid":1948,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:46:30],"pid":18928,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:46:30],"pid":18928,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:46:51],"pid":12392,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:46:51],"pid":12392,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:48:02],"pid":4108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:48:02],"pid":4108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:50:09],"pid":19240,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:50:09],"pid":19240,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:50:17],"pid":15312,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:50:17],"pid":15312,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:50:26],"pid":8508,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:50:26],"pid":8508,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:50:34],"pid":20708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:50:34],"pid":20708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:55:02],"pid":4488,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:55:02],"pid":4488,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 17:58:28],"pid":7536,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 17:58:28],"pid":7536,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:00:07],"pid":21500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:00:07],"pid":21500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:00:17],"pid":20852,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:00:17],"pid":20852,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:00:22],"pid":17244,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:00:22],"pid":17244,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:03:57],"pid":9984,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:03:57],"pid":9984,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:04:25],"pid":8624,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:04:25],"pid":8624,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:07:58],"pid":1528,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:07:58],"pid":1528,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:08:59],"pid":5212,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:08:59],"pid":5212,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:09:13],"pid":15268,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:09:13],"pid":15268,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:12:13],"pid":7000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:12:13],"pid":7000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 18:17:06],"pid":4356,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 18:17:06],"pid":4356,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:23:55],"pid":16108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:23:55],"pid":16108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:30:32],"pid":9912,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:30:32],"pid":9912,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:31:34],"pid":15200,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:31:34],"pid":15200,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:31:43],"pid":21112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:31:43],"pid":21112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:31:57],"pid":8292,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:31:57],"pid":8292,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:32:33],"pid":9728,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:32:33],"pid":9728,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:34:05],"pid":20760,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:34:05],"pid":20760,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:40:50],"pid":17716,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:40:50],"pid":17716,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:43:58],"pid":15960,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:43:58],"pid":15960,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:51:28],"pid":6016,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:51:28],"pid":6016,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:56:53],"pid":9644,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:56:53],"pid":9644,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:57:19],"pid":20568,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:57:19],"pid":20568,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:57:21],"pid":21000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:57:21],"pid":21000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:57:33],"pid":20708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:57:33],"pid":20708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:58:52],"pid":8344,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:58:52],"pid":8344,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:59:30],"pid":10096,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:59:30],"pid":10096,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 19:59:53],"pid":7832,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 19:59:53],"pid":7832,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:00:29],"pid":16544,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:00:29],"pid":16544,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:00:36],"pid":19244,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:00:36],"pid":19244,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:00:56],"pid":15388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:00:56],"pid":15388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:01:11],"pid":15048,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:01:12],"pid":15048,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:01:21],"pid":16828,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:01:21],"pid":16828,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:02:12],"pid":13100,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:02:12],"pid":13100,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:02:16],"pid":11388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:02:16],"pid":11388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:02:29],"pid":8864,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:02:29],"pid":8864,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:03:00],"pid":15184,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:03:00],"pid":15184,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:03:28],"pid":9740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:03:28],"pid":9740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:03:35],"pid":13960,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:03:35],"pid":13960,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:03:45],"pid":8816,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:03:45],"pid":8816,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:04:56],"pid":1352,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:04:57],"pid":1352,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:05:18],"pid":6388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:05:18],"pid":6388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:06:02],"pid":17936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:06:02],"pid":17936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:06:10],"pid":21476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:06:10],"pid":21476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:06:43],"pid":19948,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:06:43],"pid":19948,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:07:49],"pid":7016,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:07:49],"pid":7016,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:08:00],"pid":21220,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:08:00],"pid":21220,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:08:05],"pid":9508,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:08:05],"pid":9508,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:10:27],"pid":8276,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:10:27],"pid":8276,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:10:33],"pid":21356,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:10:33],"pid":21356,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:12:35],"pid":8216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:12:35],"pid":8216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:13:04],"pid":420,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:13:04],"pid":420,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:13:10],"pid":20652,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:13:10],"pid":20652,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:13:31],"pid":4672,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:13:31],"pid":4672,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:13:39],"pid":20532,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:13:39],"pid":20532,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:13:54],"pid":15252,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:13:54],"pid":15252,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:14:12],"pid":9264,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:14:12],"pid":9264,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:14:53],"pid":16860,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:14:53],"pid":16860,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:15:22],"pid":7536,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:15:22],"pid":7536,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:15:36],"pid":18040,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:15:36],"pid":18040,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:17:34],"pid":21076,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:17:34],"pid":21076,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:18:29],"pid":3720,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:18:29],"pid":3720,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:18:49],"pid":18964,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:18:49],"pid":18964,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:18:54],"pid":18776,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:18:54],"pid":18776,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:19:12],"pid":15896,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:19:12],"pid":15896,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:19:47],"pid":6648,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:19:47],"pid":6648,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:19:56],"pid":20588,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:19:56],"pid":20588,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:20:05],"pid":18256,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:20:06],"pid":18256,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:20:30],"pid":13292,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:20:30],"pid":13292,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:20:59],"pid":11408,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:20:59],"pid":11408,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:21:39],"pid":7872,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:21:39],"pid":7872,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:22:05],"pid":8312,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:22:05],"pid":8312,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:22:23],"pid":9412,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:22:23],"pid":9412,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:22:35],"pid":18200,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:22:35],"pid":18200,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:22:53],"pid":18836,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:22:53],"pid":18836,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:23:01],"pid":16292,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:23:01],"pid":16292,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:23:10],"pid":7388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:23:10],"pid":7388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[2/6/2023, 20:23:15],"pid":15384,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[2/6/2023, 20:23:15],"pid":15384,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 10:57:05],"pid":11112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 10:58:52],"pid":18008,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 10:59:45],"pid":19312,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 10:59:45],"pid":19312,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:04:28],"pid":10052,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:04:28],"pid":10052,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:04:58],"pid":16864,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:04:58],"pid":16864,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:06:21],"pid":15740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:06:21],"pid":15740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:07:55],"pid":13340,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:07:55],"pid":13340,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:09:27],"pid":15604,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:09:27],"pid":15604,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:09:30],"pid":2128,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:09:30],"pid":2128,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:12:17],"pid":19748,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:12:17],"pid":19748,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:13:41],"pid":7500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:13:41],"pid":7500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:15:50],"pid":10928,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:15:50],"pid":10928,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:16:17],"pid":15016,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:16:17],"pid":15016,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:16:32],"pid":5500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:16:32],"pid":5500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:20:01],"pid":6196,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:20:01],"pid":6196,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:20:53],"pid":7144,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:20:53],"pid":7144,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:21:17],"pid":3300,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:21:17],"pid":3300,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:22:31],"pid":20844,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:22:31],"pid":20844,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:28:01],"pid":14060,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:28:01],"pid":14060,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:28:33],"pid":17288,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:28:33],"pid":17288,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:29:40],"pid":10668,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:29:40],"pid":10668,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:30:27],"pid":6392,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:30:27],"pid":6392,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:30:55],"pid":3220,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:30:55],"pid":3220,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:31:44],"pid":7740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:31:44],"pid":7740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:34:39],"pid":6636,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:34:39],"pid":6636,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:36:20],"pid":3640,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:36:20],"pid":3640,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:36:51],"pid":4916,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:36:51],"pid":4916,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:37:15],"pid":18748,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:37:15],"pid":18748,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:37:46],"pid":19676,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:37:46],"pid":19676,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:37:50],"pid":18188,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:37:50],"pid":18188,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:39:45],"pid":21216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:39:45],"pid":21216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:39:50],"pid":7992,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:39:50],"pid":7992,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:42:51],"pid":4352,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:42:51],"pid":4352,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:49:03],"pid":4224,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:49:04],"pid":4224,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:50:31],"pid":8780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:50:31],"pid":8780,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:50:53],"pid":16756,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:50:53],"pid":16756,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:51:58],"pid":1544,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:51:58],"pid":1544,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:53:12],"pid":16588,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:53:12],"pid":16588,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:59:05],"pid":14460,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:59:05],"pid":14460,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 11:59:37],"pid":9316,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 11:59:37],"pid":9316,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:00:13],"pid":18344,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:00:13],"pid":18344,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:00:39],"pid":21104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:00:39],"pid":21104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:01:42],"pid":21216,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:01:42],"pid":21216,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:04:51],"pid":13628,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:04:51],"pid":13628,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:05:10],"pid":7248,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:05:10],"pid":7248,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:05:29],"pid":11088,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:05:29],"pid":11088,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:06:14],"pid":16924,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:06:14],"pid":16924,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:06:35],"pid":13976,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:06:35],"pid":13976,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:22:18],"pid":4356,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:22:18],"pid":4356,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:22:27],"pid":15000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:22:27],"pid":15000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:22:31],"pid":1036,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:22:31],"pid":1036,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:22:42],"pid":17436,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:22:42],"pid":17436,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:30:24],"pid":16012,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:30:24],"pid":16012,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:30:59],"pid":6388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:30:59],"pid":6388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:32:02],"pid":19436,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:32:02],"pid":19436,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:35:28],"pid":4228,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:35:28],"pid":4228,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:36:00],"pid":11864,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:36:00],"pid":11864,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:36:14],"pid":8648,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:36:14],"pid":8648,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:36:27],"pid":18260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:36:28],"pid":18260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:36:49],"pid":1332,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:36:50],"pid":1332,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:37:09],"pid":9316,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:37:09],"pid":9316,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:37:18],"pid":12332,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:37:18],"pid":12332,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:37:54],"pid":16192,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:37:54],"pid":16192,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:38:22],"pid":9476,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:38:22],"pid":9476,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:39:30],"pid":15404,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:39:30],"pid":15404,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:39:50],"pid":16368,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:39:50],"pid":16368,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:41:55],"pid":17360,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:41:55],"pid":17360,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:43:06],"pid":11776,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:43:06],"pid":11776,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:46:21],"pid":1856,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:46:21],"pid":1856,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:46:40],"pid":10576,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:46:40],"pid":10576,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:46:49],"pid":21132,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:46:49],"pid":21132,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:46:56],"pid":13616,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:46:56],"pid":13616,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:47:01],"pid":11844,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:47:01],"pid":11844,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:47:05],"pid":16844,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:47:05],"pid":16844,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:47:43],"pid":20736,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:47:43],"pid":20736,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:48:04],"pid":19928,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:48:04],"pid":19928,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:49:26],"pid":14780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:49:26],"pid":14780,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:59:05],"pid":7008,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:59:05],"pid":7008,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:59:18],"pid":1768,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:59:18],"pid":1768,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:59:31],"pid":17628,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:59:31],"pid":17628,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 12:59:44],"pid":17656,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 12:59:45],"pid":17656,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:00:01],"pid":11104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:00:01],"pid":11104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:00:20],"pid":12600,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:00:20],"pid":12600,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:00:28],"pid":11372,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:00:28],"pid":11372,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:01:05],"pid":16192,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:01:05],"pid":16192,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:01:39],"pid":14824,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:01:39],"pid":14824,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:15:08],"pid":18660,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:15:08],"pid":18660,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:15:31],"pid":20708,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:15:31],"pid":20708,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:15:54],"pid":14928,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:15:54],"pid":14928,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:16:06],"pid":9116,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:16:06],"pid":9116,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:17:25],"pid":13500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:17:25],"pid":13500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:19:24],"pid":21112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:19:24],"pid":21112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:19:32],"pid":14540,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:19:32],"pid":14540,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:19:58],"pid":14764,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:19:58],"pid":14764,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:20:17],"pid":12640,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:20:17],"pid":12640,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:20:49],"pid":8796,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:20:49],"pid":8796,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:22:28],"pid":20712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:22:29],"pid":20712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:23:04],"pid":19984,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:23:04],"pid":19984,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:23:20],"pid":20976,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:23:20],"pid":20976,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:23:26],"pid":5900,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:23:26],"pid":5900,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:23:49],"pid":18008,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:23:49],"pid":18008,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:23:55],"pid":14724,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:23:55],"pid":14724,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:24:47],"pid":2396,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:24:47],"pid":2396,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:24:55],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:24:55],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:26:50],"pid":18604,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:26:50],"pid":18604,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:27:25],"pid":20372,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:27:25],"pid":20372,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:27:39],"pid":18140,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:27:39],"pid":18140,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:28:31],"pid":19684,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:28:31],"pid":19684,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:29:05],"pid":12676,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:29:05],"pid":12676,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:29:16],"pid":7092,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:29:16],"pid":7092,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:35:10],"pid":17036,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:35:10],"pid":17036,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:35:20],"pid":13528,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:35:20],"pid":13528,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:36:11],"pid":6948,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:36:11],"pid":6948,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:36:20],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:36:20],"pid":8272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:37:45],"pid":14788,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:37:45],"pid":14788,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:39:53],"pid":10496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:39:53],"pid":10496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:39:56],"pid":9692,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:39:56],"pid":9692,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:40:16],"pid":6388,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:40:16],"pid":6388,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:42:29],"pid":11392,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:42:29],"pid":11392,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:42:47],"pid":17812,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:42:47],"pid":17812,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:42:51],"pid":18568,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:42:51],"pid":18568,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:45:16],"pid":9064,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:45:16],"pid":9064,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 13:59:54],"pid":8252,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 13:59:54],"pid":8252,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:01:37],"pid":18508,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:01:37],"pid":18508,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:02:11],"pid":4540,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:02:11],"pid":4540,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:10:41],"pid":20876,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:10:41],"pid":20876,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:11:02],"pid":20884,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:11:02],"pid":20884,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:11:18],"pid":6324,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:11:18],"pid":6324,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:22:37],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:22:37],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:22:39],"pid":460,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:22:39],"pid":460,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:23:50],"pid":20800,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:23:50],"pid":20800,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:25:21],"pid":6104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:25:21],"pid":6104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:26:36],"pid":15988,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:26:36],"pid":15988,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:29:40],"pid":2120,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:29:40],"pid":2120,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:35:00],"pid":8920,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:35:00],"pid":8920,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:37:56],"pid":20296,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:37:56],"pid":20296,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:40:00],"pid":16072,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:40:00],"pid":16072,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:40:06],"pid":16580,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:40:06],"pid":16580,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:40:30],"pid":11596,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:40:30],"pid":11596,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:50:47],"pid":16396,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:50:47],"pid":16396,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 14:59:31],"pid":20260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 14:59:31],"pid":20260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:01:09],"pid":68,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:01:09],"pid":68,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:02:34],"pid":20712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:02:34],"pid":20712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:03:47],"pid":16348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:03:47],"pid":16348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:05:33],"pid":15728,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:05:33],"pid":15728,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:09:40],"pid":10428,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:09:40],"pid":10428,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:10:53],"pid":2980,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:10:53],"pid":2980,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:11:46],"pid":11848,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:11:47],"pid":11848,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:11:57],"pid":3196,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:11:57],"pid":3196,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:13:04],"pid":8108,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:13:04],"pid":8108,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:21:50],"pid":3128,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:21:50],"pid":3128,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:24:48],"pid":10600,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:24:48],"pid":10600,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:25:00],"pid":14828,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:25:00],"pid":14828,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:25:41],"pid":5392,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:25:41],"pid":5392,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:26:37],"pid":18776,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:26:37],"pid":18776,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:36:50],"pid":20000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:36:50],"pid":20000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:39:00],"pid":8204,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:39:00],"pid":8204,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:39:13],"pid":3176,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:39:13],"pid":3176,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 15:47:23],"pid":1436,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 15:47:23],"pid":1436,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:18:00],"pid":8036,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:18:00],"pid":8036,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:18:45],"pid":3112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:18:45],"pid":3112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:19:05],"pid":2528,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:19:05],"pid":2528,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:20:17],"pid":2556,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:20:17],"pid":2556,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:20:41],"pid":1844,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:20:41],"pid":1844,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:22:17],"pid":15364,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:22:17],"pid":15364,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:23:56],"pid":13888,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:23:56],"pid":13888,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:24:14],"pid":6740,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:24:14],"pid":6740,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:29:35],"pid":6960,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:29:35],"pid":6960,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:32:56],"pid":21076,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:32:56],"pid":21076,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:36:22],"pid":9084,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:36:22],"pid":9084,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:38:19],"pid":15988,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:38:19],"pid":15988,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:38:41],"pid":21100,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:38:41],"pid":21100,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:38:44],"pid":4112,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:38:45],"pid":4112,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:39:20],"pid":5268,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:39:20],"pid":5268,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:39:24],"pid":7940,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:39:24],"pid":7940,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:40:37],"pid":14224,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:40:37],"pid":14224,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:41:39],"pid":4564,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:41:39],"pid":4564,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:41:55],"pid":11160,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:41:55],"pid":11160,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 16:43:21],"pid":14928,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 16:43:21],"pid":14928,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:04:32],"pid":21496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:04:32],"pid":21496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:04:43],"pid":18160,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:04:43],"pid":18160,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:05:31],"pid":1492,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:05:31],"pid":1492,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:09:42],"pid":4148,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:09:42],"pid":4148,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:09:49],"pid":9020,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:09:49],"pid":9020,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:11:33],"pid":12452,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:11:33],"pid":12452,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:12:07],"pid":17260,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:12:07],"pid":17260,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:12:25],"pid":14516,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:12:25],"pid":14516,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:13:30],"pid":10876,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:13:30],"pid":10876,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:13:39],"pid":12332,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:13:39],"pid":12332,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:18:39],"pid":19292,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:18:40],"pid":19292,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:21:33],"pid":20804,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:21:33],"pid":20804,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:23:01],"pid":1724,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:23:01],"pid":1724,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:23:47],"pid":8140,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:23:47],"pid":8140,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:25:06],"pid":13760,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:25:06],"pid":13760,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:25:37],"pid":7864,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:25:37],"pid":7864,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:25:54],"pid":9868,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:25:54],"pid":9868,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:29:11],"pid":16000,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:29:11],"pid":16000,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:29:21],"pid":14204,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:29:21],"pid":14204,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:29:44],"pid":19252,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:29:44],"pid":19252,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:30:07],"pid":15316,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:30:07],"pid":15316,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:30:24],"pid":9464,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:30:24],"pid":9464,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:30:46],"pid":4208,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:30:46],"pid":4208,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:31:14],"pid":16892,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:31:14],"pid":16892,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:32:05],"pid":15104,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:32:06],"pid":15104,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:32:18],"pid":19516,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:32:19],"pid":19516,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:32:33],"pid":13528,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:32:33],"pid":13528,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:32:40],"pid":16764,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:32:40],"pid":16764,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:33:05],"pid":13892,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:33:05],"pid":13892,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:33:23],"pid":17228,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:33:23],"pid":17228,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:43:01],"pid":16960,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:43:01],"pid":16960,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:45:15],"pid":2780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:45:15],"pid":2780,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:49:57],"pid":2340,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:49:57],"pid":2340,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:50:11],"pid":760,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:50:11],"pid":760,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:52:35],"pid":1244,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:52:35],"pid":1244,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:53:21],"pid":10984,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:53:22],"pid":10984,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:53:53],"pid":3500,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:53:53],"pid":3500,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:54:31],"pid":10248,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:54:31],"pid":10248,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:56:18],"pid":15912,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:56:18],"pid":15912,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:56:47],"pid":20448,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:56:47],"pid":20448,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:59:01],"pid":17712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:59:01],"pid":17712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:59:13],"pid":10608,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:59:13],"pid":10608,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:59:17],"pid":6380,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:59:17],"pid":6380,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 17:59:24],"pid":7496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 17:59:24],"pid":7496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:05:32],"pid":12152,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:05:32],"pid":12152,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:06:26],"pid":6816,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:06:26],"pid":6816,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:07:31],"pid":1492,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:07:31],"pid":1492,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:07:51],"pid":4620,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:07:51],"pid":4620,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:08:15],"pid":13824,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:08:15],"pid":13824,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:17:31],"pid":3272,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:17:31],"pid":3272,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:21:22],"pid":13448,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:21:22],"pid":13448,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:27:43],"pid":20844,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:27:43],"pid":20844,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:27:50],"pid":14820,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:27:50],"pid":14820,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:29:51],"pid":1764,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:29:51],"pid":1764,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:33:16],"pid":14780,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:33:16],"pid":14780,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:34:27],"pid":5824,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:34:27],"pid":5824,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:38:37],"pid":19516,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:38:37],"pid":19516,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:38:52],"pid":11716,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:38:52],"pid":11716,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:48:30],"pid":7392,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:48:30],"pid":7392,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:52:57],"pid":16464,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:52:57],"pid":16464,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:55:10],"pid":16628,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:55:10],"pid":16628,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:55:22],"pid":10968,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:55:22],"pid":10968,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:56:07],"pid":6900,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:56:07],"pid":6900,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:57:43],"pid":20252,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:57:43],"pid":20252,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:58:30],"pid":14968,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:58:30],"pid":14968,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 18:59:06],"pid":9936,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 18:59:06],"pid":9936,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:04:38],"pid":15268,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:04:39],"pid":15268,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:06:17],"pid":2752,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:06:17],"pid":2752,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:06:44],"pid":10996,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:06:44],"pid":10996,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:07:45],"pid":8336,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:07:45],"pid":8336,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:07:54],"pid":14240,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:07:54],"pid":14240,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:08:07],"pid":13156,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:08:07],"pid":13156,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:08:22],"pid":21408,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:08:22],"pid":21408,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:09:50],"pid":8352,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:09:50],"pid":8352,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:09:56],"pid":9712,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:09:56],"pid":9712,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:10:22],"pid":9168,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:10:22],"pid":9168,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:11:22],"pid":20836,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:11:22],"pid":20836,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:12:23],"pid":20348,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:12:23],"pid":20348,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:12:34],"pid":11220,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:12:34],"pid":11220,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:13:12],"pid":18968,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:13:12],"pid":18968,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:13:34],"pid":14700,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:13:34],"pid":14700,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:14:01],"pid":19228,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:14:02],"pid":19228,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:19:07],"pid":16412,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:19:07],"pid":16412,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:19:33],"pid":12580,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:19:33],"pid":12580,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:22:03],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:22:03],"pid":2588,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:24:36],"pid":14412,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:24:36],"pid":14412,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:28:31],"pid":10496,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:28:31],"pid":10496,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:32:21],"pid":13328,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:32:21],"pid":13328,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[3/6/2023, 19:34:07],"pid":17972,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[3/6/2023, 19:34:07],"pid":17972,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}

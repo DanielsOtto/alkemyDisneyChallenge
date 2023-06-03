@@ -1,0 +1,12 @@
+components:
+  schemas:
+    MovieCharacter:
+      description: Internal model used for establishing relationships between movies and characters.
+      type: object
+      properties:
+        id:
+          type: string
+          format: uuid
+          description: The unique identifier for the table movies_characters.
+      example:
+        id: abc123xyz456
