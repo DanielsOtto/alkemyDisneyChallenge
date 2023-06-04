@@ -61,7 +61,7 @@ export class MediaService {
       const media = await this.#mediaRepository.getMediaByTitle(title, entity, false);
       if (media) throw new AlreadyRegister(title);
     } catch (e) {
-      logger.error(e);
+      // logger.error(e);
       console.error(e);
       throw e;
     }

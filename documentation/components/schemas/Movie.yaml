@@ -1,9 +1,9 @@
 components:
-  schema:
+  schemas:
     Movie:
       type: object
       properties:
-        images:
+        image:
           type: string
           description: The description of the movie
         title:
