@@ -28,7 +28,6 @@ paths:
           description: Invalid format.
         "500":
           description: Email and password are required.
-          description: Invalid token
     get:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer

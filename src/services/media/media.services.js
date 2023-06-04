@@ -56,6 +56,14 @@ export class MediaService {
 
   async createMedia({ image, title, createDate, rating, genre }, entity) { // + valores del objeto
     try {
+      const media = await this.#mediaRepository.getMediaByTitle(title, entity, false);
+      if (media) throw new Error('REPETIDO') // MODIFICAR
+    } catch (e) {
+      logger.error(e);
+      console.error(e);
+      throw e;
+    }
+    try {
       const media = new NewMediaValidations(image, title, createDate, rating, genre);
       return await this.#mediaRepository.createMedia(media, entity);
     } catch (e) {

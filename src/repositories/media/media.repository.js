@@ -38,10 +38,31 @@ export class MediaRepository {
     }
   }
 
+  async getMediaByTitle(title, entity, validate = true) {
+    try {
+      const table = this.getTable(entity);
+      const media = await table.findOne({
+        where: {
+          title
+        }
+      });
+      if (validate) {
+        if (!media) throw new NotFound(title);
+      }
+      return media;
+    } catch (e) {
+      logger.error(e);
+      console.error(e);
+      throw e;
+    }
+  }
+
   async getMediaById(id, entity) {
     try {
       const table = this.getTable(entity);
-      return await table.findByPk(id);
+      const media = await table.findByPk(id);
+      if (!media) throw new NotFound(id);
+      return media;
     } catch (e) {
       console.error(e);
       logger.error(e);
@@ -53,7 +74,6 @@ export class MediaRepository {
     try {
       const media = await this.getMediaById(id, entity);
       const characters = await media.getCharacters();
-      if (!media) throw new NotFound(id); // revisar esto
       if (media.length === 0) throw new EmptyCollection(entity);
       return {
         media,
