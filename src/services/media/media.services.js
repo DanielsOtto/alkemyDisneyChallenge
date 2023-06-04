@@ -59,7 +59,7 @@ export class MediaService {
   async createMedia({ image, title, createDate, rating, genre }, entity) { // + valores del objeto
     try {
       const media = await this.#mediaRepository.getMediaByTitle(title, entity, false);
-      if (media) throw new AlreadyRegister(media);
+      if (media) throw new AlreadyRegister(title);
     } catch (e) {
       logger.error(e);
       console.error(e);

@@ -1902,3 +1902,7 @@
 {"level":"info"[4/6/2023, 17:44:31],"pid":1068,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
 {"level":"info"[4/6/2023, 17:45:50],"pid":15688,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
 {"level":"info"[4/6/2023, 17:45:50],"pid":15688,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[4/6/2023, 18:06:06],"pid":1924,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[4/6/2023, 18:06:07],"pid":1924,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
+{"level":"info"[4/6/2023, 18:07:31],"pid":15004,"hostname":"DESKTOP-FRVMOR8","msg":"Connect in the port 8080"}
+{"level":"info"[4/6/2023, 18:07:31],"pid":15004,"hostname":"DESKTOP-FRVMOR8","msg":"Database online!"}
