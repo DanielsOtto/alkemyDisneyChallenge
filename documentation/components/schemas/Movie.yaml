@@ -5,28 +5,28 @@ components:
       properties:
         images:
           type: string
-          description: the description of the movie
+          description: The description of the movie
         title:
           type: string
-          description: the title of the movie
-        createData:
+          description: The title of the movie
+        createDate:
           type: date
-          description: the date of creation of the movie
+          description: The date of creation of the movie. The format must be YYYY-MM-DD.
         rating:
           type: integer
-          description: the rating of the movie
+          description: The rating of the movie
         genre:
           type: string
-          description: the genre of the movie
+          description: The genre of the movie
       required:
         - image
         - title
-        - createData
+        - createDate
         - rating
         - genre
       example:
         image: testMovieImage.com
         title: the first movie
-        createData: 01/01/50
+        createDate: 1999-05-10
         rating: 9
         genre: fantasy

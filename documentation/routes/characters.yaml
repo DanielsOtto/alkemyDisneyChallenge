@@ -32,7 +32,7 @@ paths:
     get:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Get the name and image of each character
+      summary: Get the name and image of each character.
       tags:
         - Characters
       requestBody:
@@ -55,7 +55,7 @@ paths:
     put:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Update a character
+      summary: Update a character.
       tags:
         - Characters
       parameters:

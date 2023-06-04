@@ -24,4 +24,4 @@ components:
         name: Thomas
         lastname: Tini
         email: thomas.tini@test.com
-        password: encrypt123
+        password: "123456"

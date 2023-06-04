@@ -6,7 +6,7 @@ import mediaController from '../controllers/media/index.js';
 
 const movieRouter = createRouter();
 
-// movieRouter.use(auth);
+movieRouter.use(auth);
 movieRouter.use(movieEntity);
 movieRouter.post('/', mediaController.createMedia); // CREAR 1 --  BIEN
 movieRouter.get('/', mediaController.getAllMovies); // get all movies - BIEN

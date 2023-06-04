@@ -1,12 +1,12 @@
-# components:
-#   $ref: ../components/security/security.yaml
+components:
+  $ref: ../components/security/security.yaml
 
 paths:
   /api/movies:
     post:
       security:
         - Authorization: [] # use the same name as above
-      summary: Create a character
+      summary: Create a Movie
       tags:
         - Movies
       requestBody:
@@ -14,7 +14,7 @@ paths:
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/Model"
+              $ref: "#/components/schemas/Movie"
       responses:
         "201":
           description: Movie created -> Get object Movie.
@@ -28,11 +28,11 @@ paths:
           description: Invalid format.
         "500":
           description: Email and password are required.
-          # error aut
+          description: Invalid token
     get:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Get the name and image of each character
+      summary: Get the name and image of each movie.
       tags:
         - Movies
       requestBody:
@@ -55,13 +55,13 @@ paths:
     put:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Update a character
+      summary: Update a movie.
       tags:
         - Movies
       parameters:
         - in: path
           name: id
-          description: ID of the character to update
+          description: ID of the movie to update
           required: true
           schema:
             type: string
@@ -70,28 +70,28 @@ paths:
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/Model"
+              $ref: "#/components/schemas/Movie"
       responses:
         "200":
-          description: Character updated successfully.
+          description: Movie updated successfully.
         "400":
           description: Invalid argument.
         "403":
           description: Forbidden access!
         "404":
-          description: Character not found. Not found ID!
+          description: Movie not found. Not found ID!
         "500":
           description: Internal server error.
     delete:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Delete a character
+      summary: Delete a movie.
       tags:
         - Movies
       parameters:
         - in: path
           name: id
-          description: ID of the character to delete
+          description: ID of the movie to delete
           required: true
           schema:
             type: string
@@ -99,33 +99,38 @@ paths:
         required: false
       responses:
         "200":
-          description: User token.
+          description: Deleted.
         "400":
           description: Invalid argument. Nothing was deleted!
         "401":
           description: Invalid credentials!
         "403":
           description: Forbidden access!
-  /api/movies/{id}/character:
+  /api/movies/{id}/movie:
     post:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Update a character
+      summary: Update a movie
       tags:
         - Movies
       parameters:
         - in: path
           name: id
-          description: ID of the character to update
+          description: ID of the movie to which you are going to add a character
           required: true
           schema:
             type: string
       requestBody:
-        required: false
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/Model"
+              type: object
+              properties:
+                idC:
+                  type: string
+                  description: ID of the character to add in the movie.
+              required:
+                - idC # id of character
       responses:
         "200":
           description: Character updated successfully.
@@ -176,11 +181,23 @@ paths:
           schema:
             type: string
       requestBody:
-        required: false
+        required: true
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/Model"
+              type: object
+              properties:
+                title:
+                  type: string
+                  description: The title of the movies you want to filter.
+                genre:
+                  type: string
+                  description: The genre of the movies you want to filter
+                order:
+                  type: string
+                  description: The order of the movies you want to filter
+              required:
+                - title
       responses:
         "200":
           description: Character updated successfully.
