@@ -1,8 +1,8 @@
 import { logger } from '../../config/pino.config.js';
-import { CharacterAlreadyRegister } from '../../errors/CharacterAlreadyRegister.js';
 import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { CharUpdateValidations } from '../../validations/charUpdate.validations.js';
 import { NewCharValidations } from '../../validations/newChar.validations.js';
+import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
 // manejo de errores
 
 export class CharacterService {
@@ -24,7 +24,7 @@ export class CharacterService {
   async createChar({ image, name, age, weight, history }) {
     try {
       const char = await this.#characterRepo.getOneByName(name, false);
-      char ? (() => { throw new CharacterAlreadyRegister(name); })() : null;
+      char ? (() => { throw new AlreadyRegister(name); })() : null;
     } catch (e) {
       console.error(e);
       logger.error(e);

@@ -1,5 +1,5 @@
 import { logger } from '../../config/pino.config.js';
-import { EmailAlreadyRegister } from '../../errors/EmailAlreadyRegister.js';
+import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
 import { NotFound } from '../../errors/NotFound.js';
 
 export class SesssionRepository {
@@ -11,7 +11,7 @@ export class SesssionRepository {
   async createUser(email, password, name, lastname) {
     try {
       const user = await this.findByEmail(email, false);
-      if (user) throw new EmailAlreadyRegister(email);
+      if (user) throw new AlreadyRegister(email);
     } catch (e) {
       logger.error(e);
       throw e;

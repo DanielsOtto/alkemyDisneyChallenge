@@ -16,8 +16,7 @@ export function errorHandler(error, req, res, next) {
     case 'NOT_FOUND':
       res.status(404);
       break;
-    case 'CHAR_REGISTER':
-    case 'EMAIL_REGISTER':
+    case 'ALREADY_REGISTER':
       res.status(409);
       break;
     case 'INVALID_FORMAT':

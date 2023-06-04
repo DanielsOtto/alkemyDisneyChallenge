@@ -2,7 +2,9 @@ import { logger } from '../../config/pino.config.js';
 import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { MediaUpdateValidations } from '../../validations/mediaUpdate.validations.js';
 import { NewMediaValidations } from '../../validations/newMedia.validations.js';
+import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
 //errores
+
 
 export class MediaService {
   #mediaRepository;
@@ -57,7 +59,7 @@ export class MediaService {
   async createMedia({ image, title, createDate, rating, genre }, entity) { // + valores del objeto
     try {
       const media = await this.#mediaRepository.getMediaByTitle(title, entity, false);
-      if (media) throw new Error('REPETIDO') // MODIFICAR
+      if (media) throw new AlreadyRegister(media);
     } catch (e) {
       logger.error(e);
       console.error(e);
