@@ -3,7 +3,6 @@ import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { MediaUpdateValidations } from '../../validations/mediaUpdate.validations.js';
 import { NewMediaValidations } from '../../validations/newMedia.validations.js';
 import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
-import { NotFound } from '../../errors/NotFound.js';
 // SIRVE TANTO PARA MOVIES como SERIES
 
 
