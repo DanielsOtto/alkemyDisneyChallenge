@@ -24,6 +24,23 @@ export class CharacterRepository {
     }
   }
 
+  async getCharAndMedia(id) {
+    try {
+      const char = await this.getOneById(id);
+      const movies = await char.getMovies();
+      const series = await char.getSeries();
+      return {
+        char,
+        movies,
+        series
+      };
+    } catch (e) {
+      console.error(e);
+      logger.error(e);
+      throw e;
+    }
+  }
+
   async getOneById(id) {
     try {
       const char = await this.#characterTable.findByPk(id);
@@ -110,4 +127,5 @@ export class CharacterRepository {
       throw e;
     }
   }
+
 }

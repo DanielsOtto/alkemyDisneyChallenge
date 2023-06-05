@@ -106,3 +106,30 @@ paths:
           description: Invalid credentials!
         "403":
           description: Forbidden access!
+/api/characters/{id}/media:
+  get:
+    security:
+      - Authorization: [] # Se requiere un token de autenticación Bearer
+    summary: Get the details of the character and his movies and series.
+    tags:
+      - Characters
+    parameters:
+      - in: path
+        name: id
+        description: ID of the character to get
+        required: true
+        schema:
+          type: string
+    requestBody:
+      required: false
+    responses:
+      "200":
+        description: Character details.
+      "400":
+        description: Invalid argument.
+      "403":
+        description: Forbidden access!
+      "404":
+        description: Character not found. Not found ID!
+      "500":
+        description: Internal server error.

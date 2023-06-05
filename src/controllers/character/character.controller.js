@@ -14,6 +14,18 @@ export class CharacterController {
     }
   }// sin probar sin swagger
 
+  async getCharAndMedia({ params }, res, next) {
+    const { id } = params;
+    try {
+      const charMedia = await characterService.getCharAndMedia(id);
+      res.status(200).json({ Character: charMedia });
+    } catch (e) {
+      logger.error(e);
+      console.error(e);
+      next(e);
+    }
+  }
+
   async createCharacter({ body }, res, next) {
     try {
       const char = await characterService.createChar(body);

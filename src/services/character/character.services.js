@@ -21,6 +21,17 @@ export class CharacterService {
     }
   }
 
+  async getCharAndMedia(id) {
+    try {
+      if (!id) throw new InvalidArgument('id');
+      return await this.#characterRepo.getCharAndMedia(id);
+    } catch (e) {
+      logger.error(e);
+      console.error(e);
+      throw e;
+    }
+  }
+
   async createChar({ image, name, age, weight, history }) {
     let char;
     try {
