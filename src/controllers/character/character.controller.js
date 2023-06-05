@@ -9,7 +9,7 @@ export class CharacterController {
       res.status(200).json({ Characters: chars });
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       next(e);
     }
   }// sin probar sin swagger
@@ -20,7 +20,18 @@ export class CharacterController {
       const charMedia = await characterService.getCharAndMedia(id);
       res.status(200).json({ Character: charMedia });
     } catch (e) {
-      logger.error(e);
+      // logger.error(e);
+      console.error(e);
+      next(e);
+    }
+  }
+
+  async getCharByNameAndFilter({ query }, res, next) {
+    try {
+      const response = await characterService.getCharByNameAndFilter(query);
+      res.status(200).json({ response });
+    } catch (e) {
+      // logger.error(e);
       console.error(e);
       next(e);
     }
@@ -32,7 +43,7 @@ export class CharacterController {
       res.status(201).json({ Character: char });
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       next(e);
     }
   } // sin probar sin swagger
@@ -56,7 +67,7 @@ export class CharacterController {
       res.status(200).json({ Deleted: id });
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       next(e);
     }
   }//sin probar sin swagger

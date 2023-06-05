@@ -3,6 +3,7 @@ import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { CharUpdateValidations } from '../../validations/charUpdate.validations.js';
 import { NewCharValidations } from '../../validations/newChar.validations.js';
 import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
+import { InvalidFormat } from '../../errors/InvalidFormat.js';
 // manejo de errores
 
 export class CharacterService {
@@ -26,7 +27,19 @@ export class CharacterService {
       if (!id) throw new InvalidArgument('id');
       return await this.#characterRepo.getCharAndMedia(id);
     } catch (e) {
-      logger.error(e);
+      // logger.error(e);
+      console.error(e);
+      throw e;
+    }
+  }
+
+  async getCharByNameAndFilter({ name, age, weight }) {
+    try {
+      if (typeof name !== 'string') throw new InvalidFormat('Name must be a string');
+      if (!name) throw new InvalidArgument('name');
+      return await this.#characterRepo.getCharByNameAndFilter(name, age, weight);
+    } catch (e) {
+      // logger.error(e);
       console.error(e);
       throw e;
     }

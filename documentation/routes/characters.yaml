@@ -40,8 +40,8 @@ paths:
       responses:
         "200":
           description: Get all the characters.
-        # "400":
-        #   description: Invalid argument.
+        "400":
+          description: Invalid argument.
         "401":
           description: Invalid credentials!
         "403":
@@ -125,6 +125,47 @@ paths:
     responses:
       "200":
         description: Character details.
+      "400":
+        description: Invalid argument.
+      "403":
+        description: Forbidden access!
+      "404":
+        description: Character not found. Not found ID!
+      "500":
+        description: Internal server error.
+/api/characters/filter:
+  get:
+    security:
+      - Authorization: [] # Se requiere un token de autenticación Bearer
+    summary: Get the character by name, you can filter by age or weight and get their movies and series.
+    tags:
+      - Characters
+    parameters:
+      - in: query
+        name: name
+        description: The name of the characters you want to filter.
+        required: true
+        schema:
+          type: string
+      - in: query
+        name: age
+        description: The age of the characters you want to filter.
+        schema:
+          type: string
+          nullable: true
+      - in: query
+        name: weight
+        description: The weight of the characters you want to filter.
+        schema:
+          type: string
+          nullable: true
+    requestBody:
+      required: false
+    responses:
+      "200":
+        description: Character details.
+      "204":
+        description: The character collection is empty.
       "400":
         description: Invalid argument.
       "403":

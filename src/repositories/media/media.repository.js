@@ -1,5 +1,5 @@
 import { logger } from '../../config/pino.config.js';
-import EmptyCollection from '../../errors/EmptyCollection.js';
+import { EmptyCollection } from '../../errors/EmptyCollection.js';
 import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { NotFound } from '../../errors/NotFound.js';
 import { Op } from 'sequelize';
@@ -97,9 +97,11 @@ export class MediaRepository {
           }
         }
       }
-      if (genre) searchOptions.where.genre = {
-        [Op.like]: `%${genre}%`
-      };
+      if (genre) {
+        searchOptions.where.genre = {
+          [Op.like]: `%${genre}%`
+        };
+      }
 
       media = await table.findAll(searchOptions);
       if (!media) throw new NotFound(title);

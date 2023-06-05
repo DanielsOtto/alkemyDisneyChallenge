@@ -1,5 +1,6 @@
+import { Op } from 'sequelize';
 import { logger } from '../../config/pino.config.js';
-import EmptyCollection from '../../errors/EmptyCollection.js';
+import { EmptyCollection } from '../../errors/EmptyCollection.js';
 import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { NotFound } from '../../errors/NotFound.js';
 //errores
@@ -24,19 +25,75 @@ export class CharacterRepository {
     }
   }
 
-  async getCharAndMedia(id) {
+  async getMedia(char) {
     try {
-      const char = await this.getOneById(id);
       const movies = await char.getMovies();
       const series = await char.getSeries();
       return {
-        char,
         movies,
         series
       };
+    } catch (error) {
+      console.error(e);
+      // logger.error(e);
+      throw e;
+    }
+  }
+
+  async getCharAndMedia(id) {
+    try {
+      const char = await this.getOneById(id);
+      const media = await this.getMedia(char);
+      return {
+        char,
+        media
+      };
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
+      throw e;
+    }
+  }
+
+  async getCharByNameAndFilter(name, age = false, weight = false) {
+    try {
+      const searchOptions = {
+        where: {
+          name: {
+            [Op.like]: `%${name}%`
+          }
+        }
+      };
+      if (age) {
+        searchOptions.where.age = {
+          [Op.like]: `%${age}%`
+        };
+      }
+      if (weight) {
+        const parsedWeight = parseFloat(weight);
+        const weightThreshold = 0.5;
+        searchOptions.where.weight = {
+          [Op.gte]: parsedWeight - weightThreshold,
+          [Op.lte]: parsedWeight + weightThreshold
+        };
+      }
+
+      const chars = await this.#characterTable.findAll(searchOptions);
+      if (chars.length === 0) throw new EmptyCollection('characters');
+      let array = [];
+      for (let c of chars) {
+        const media = await this.getMedia(c);
+        if (media) {
+          array.push(media);
+        }
+      }
+      return {
+        chars,
+        array
+      }
+    } catch (e) {
+      console.error(e);
+      // logger.error(e);
       throw e;
     }
   }
@@ -53,13 +110,13 @@ export class CharacterRepository {
     }
   }
 
-  async getOneByName(name, validator = true, filter) {
+  async getOneByName(name, validator = true, filter = false) {
     try {
       const queryOptions = {
         where: {
           name
         },
-        attributes: filter ? [filter] : undefined
+        attributes: filter ? [filter] : undefined,
       };
       const char = await this.#characterTable.findOne(queryOptions);
       if (validator && !char) {
