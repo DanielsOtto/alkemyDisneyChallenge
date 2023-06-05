@@ -6,6 +6,7 @@ import { logger } from '../config/pino.config.js';
 import specs from '../config/swagger.config.js';
 import db from '../database/sequelize.db.js';
 import movieRouter from '../routers/movie.router.js';
+import serieRouter from '../routers/series.router.js';
 import sessionRouter from '../routers/session.router.js';
 import characterRouter from '../routers/character.router.js';
 import { errorMiddleware } from '../middlewares/error.middleware.js';
@@ -45,7 +46,7 @@ export class Server {
     this.#app.use('/api/sessions', sessionRouter); //#1
     this.#app.use('/api/characters', characterRouter); //#2
     this.#app.use('/api/movies', movieRouter); //#3 movie
-    // this.#app.use() #4 series
+    this.#app.use('/api/series', serieRouter); //#4 series
     this.#app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
     this.#app.use(errorMiddleware, errorHandler);
     // this.#app.use() -- rutas erroneas

@@ -68,7 +68,7 @@ export class NewMediaValidations {
   }
 
   valiDate(value) {
-    const format = moment(value, 'YYYY-MM-DD', true);
+    const format = moment(value, 'YYYY-MM-DD', false);
 
     if (!format.isValid()) {
       throw new InvalidArgument('Invalid date format!');

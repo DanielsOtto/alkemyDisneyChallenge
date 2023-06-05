@@ -27,7 +27,7 @@ export class MediaService {
 
   async getMediaWithChars(id, entity) {
     try {
-      if (!id) throw new InvalidArgument('id');
+      if (!id) throw new InvalidArgument('ID');
       return await this.#mediaRepository.getMediaWithChars(id, entity);
     } catch (e) {
       // logger.error(e);
@@ -39,7 +39,7 @@ export class MediaService {
   async getMediaByTitleAndGenre({ title, genre = false, order = false }, entity) {
     console.log(title);
     try {
-      if (!title) throw new InvalidArgument('title');
+      if (!title) throw new InvalidArgument('TITLE');
       return await this.#mediaRepository.getMediaByTitleAndGenre(title, genre, order, entity)
     } catch (e) {
       // logger.error(e);
@@ -50,8 +50,8 @@ export class MediaService {
 
   async addCharacter(id, idC, entity) {
     try {
-      if (!id) throw new InvalidArgument('id movie');
-      if (!idC) throw new InvalidArgument('id character');
+      if (!id) throw new InvalidArgument('ID media');
+      if (!idC) throw new InvalidArgument('ID character');
       const char = await this.#characterRepository.getOneById(idC);
       await this.#mediaRepository.addCharacters(id, char, entity);
       return char;
@@ -84,7 +84,7 @@ export class MediaService {
 
   async updateMedia(id, { image, title, createDate, rating, genre }, entity) { // + valores del object
     try {
-      if (!id) throw new InvalidArgument('id');
+      if (!id) throw new InvalidArgument('ID');
       const media = await this.#mediaRepository.getMediaById(id, entity);
       const updated = new MediaUpdateValidations(media, image, title, createDate, rating, genre);
       await this.#mediaRepository.updateMedia(id, updated, entity);
@@ -98,7 +98,8 @@ export class MediaService {
 
   async deleteMedia(id, entity) {
     try {
-      if (!id) throw new InvalidArgument('id');
+      if (!id) throw new InvalidArgument('ID');
+      await this.#mediaRepository.getMediaById(id, entity);
       await this.#mediaRepository.deleteMedia(id, entity);
     } catch (e) {
       // logger.error(e);

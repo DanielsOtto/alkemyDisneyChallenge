@@ -2,56 +2,39 @@ components:
   $ref: ../components/security/security.yaml
 
 paths:
-  /api/movies:
+  /api/series:
     post:
       security:
         - Authorization: [] # use the same name as above
-      summary: Create a Movie
+      summary: Create a serie
       tags:
-        - Movies
+        - Series
       requestBody:
         required: true
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/Movie"
+              $ref: "#/components/schemas/Serie"
       responses:
         "201":
-          description: Movie created -> Get object Movie.
+          description: Serie created -> Get object Serie.
         "400":
           description: Invalid argument.
         "403":
           description: Forbidden access!
         "409":
-          description: Movie is already registered.
+          description: Serie is already registered.
         "422":
           description: Invalid format.
         "500":
           description: Email and password are required.
-    get:
-      security:
-        - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Get the name and image of each movie.
-      tags:
-        - Movies
-      requestBody:
-        required: false
-      responses:
-        "200":
-          description: Get all the Movies.
-        "401":
-          description: Invalid credentials!
-        "403":
-          description: Forbidden access!
-        "500":
-          description: Email and password are required.
-  /api/movies/{id}:
+  /api/series/{id}:
     put:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Update a movie.
+      summary: Update a serie.
       tags:
-        - Movies
+        - Series
       parameters:
         - in: path
           name: id
@@ -64,16 +47,16 @@ paths:
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/Movie"
+              $ref: "#/components/schemas/Serie"
       responses:
         "200":
-          description: Movie updated successfully.
+          description: Serie updated successfully.
         "400":
           description: Invalid argument.
         "403":
           description: Forbidden access!
         "404":
-          description: Movie not found. Not found ID!
+          description: Serie not found. Not found ID!
         "422":
           description: Invalid format!
         "500":
@@ -81,13 +64,13 @@ paths:
     delete:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Delete a movie.
+      summary: Delete a serie.
       tags:
-        - Movies
+        - Series
       parameters:
         - in: path
           name: id
-          description: ID of the movie to delete
+          description: ID of the serie to delete
           required: true
           schema:
             type: string
@@ -103,20 +86,20 @@ paths:
         "403":
           description: Forbidden access!
         "404":
-          description: Movie not found. Not found ID!
+          description: Serie not found. Not found ID!
         "500":
           description: Internal server error.
-  /api/movies/{id}/character:
+  /api/series/{id}/character:
     post:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Add characters to the movie.
+      summary: Add characters to the serie.
       tags:
-        - Movies
+        - Series
       parameters:
         - in: path
           name: id
-          description: ID of the movie to which you are going to add a character
+          description: ID of the serie to which you are going to add a character.
           required: true
           schema:
             type: string
@@ -128,30 +111,30 @@ paths:
               properties:
                 idC:
                   type: string
-                  description: ID of the character to add in the movie.
+                  description: ID of the character to add in the serie.
               required:
                 - idC # id of character
       responses:
         "200":
-          description: Add characters to the movie.
+          description: Add characters to the serie.
         "400":
           description: Invalid argument.
         "403":
           description: Forbidden access!
         "404":
-          description: Character/Movie not found. Not found ID!
+          description: Character/serie not found. Not found ID!
         "500":
           description: Internal server error.
     get:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Get all the fields of the movie and their characters.
+      summary: Get all the fields of the serie and their characters.
       tags:
-        - Movies
+        - Series
       parameters:
         - in: path
           name: id
-          description: ID of the movie.
+          description: ID of the serie.
           required: true
           schema:
             type: string
@@ -159,7 +142,7 @@ paths:
         required: false
       responses:
         "200":
-          description: Get all the fields of the movie and their characters.
+          description: Get all the fields of the serie and their characters.
         "400":
           description: Invalid argument. Nothing was deleted!
         "401":
@@ -168,29 +151,29 @@ paths:
           description: Forbidden access!
         "500":
           description: Internal server error.
-  /api/movies/filter:
+  /api/series/filter:
     get:
       security:
         - Authorization: [] # Se requiere un token de autenticación Bearer
-      summary: Get movies, you can filter by genre and sort in increasing or decreasing order
+      summary: Get series, you can filter by genre and sort in increasing or decreasing order
       tags:
-        - Movies
+        - Series
       parameters:
         - in: query
           name: title
-          description: The title of the movies you want to filter.
+          description: The title of the series you want to filter.
           required: true
           schema:
             type: string
         - in: query
           name: genre
-          description: The genre of the movies you want to filter.
+          description: The genre of the series you want to filter.
           schema:
             type: string
             nullable: true
         - in: query
           name: order
-          description: The order of the movies you want to filter. increasing / decreasing.
+          description: The order of the series you want to filter. increasing / decreasing.
           schema:
             type: string
             nullable: true
@@ -198,7 +181,7 @@ paths:
         required: false
       responses:
         "200":
-          description: Get all movies that meet the requirements.
+          description: Get all series that meet the requirements.
         "400":
           description: Invalid argument.
         "403":
