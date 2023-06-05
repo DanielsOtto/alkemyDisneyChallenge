@@ -176,30 +176,26 @@ paths:
       tags:
         - Movies
       parameters:
-        - in: path
+        - in: query
           name: title
-          description: movie title to filter
+          description: The title of the movies you want to filter.
           required: true
           schema:
             type: string
+        - in: query
+          name: genre
+          description: The genre of the movies you want to filter.
+          schema:
+            type: string
+            nullable: true
+        - in: query
+          name: order
+          description: The order of the movies you want to filter. increasing / decreasing.
+          schema:
+            type: string
+            nullable: true
       requestBody:
-        required: true
-        content:
-          application/json:
-            schema:
-              type: object
-              properties:
-                title:
-                  type: string
-                  description: The title of the movies you want to filter.
-                genre:
-                  type: string
-                  description: The genre of the movies you want to filter.
-                order:
-                  type: string
-                  description: The order of the movies you want to filter.
-              required:
-                - title
+        required: false
       responses:
         "200":
           description: Character updated successfully.

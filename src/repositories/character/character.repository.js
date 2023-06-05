@@ -26,7 +26,6 @@ export class CharacterRepository {
 
   async getOneById(id) {
     try {
-      console.log(id);
       const char = await this.#characterTable.findByPk(id);
       if (!char) throw new NotFound(id);
       return char;

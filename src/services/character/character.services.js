@@ -16,26 +16,27 @@ export class CharacterService {
       return await this.#characterRepo.getAllChars();
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       throw e;
     }
   }
 
   async createChar({ image, name, age, weight, history }) {
+    let char;
     try {
-      const char = await this.#characterRepo.getOneByName(name, false);
-      char ? (() => { throw new AlreadyRegister(name); })() : null;
+      char = new NewCharValidations(image, name, age, weight, history);
+      const charExist = await this.#characterRepo.getOneByName(name, false);
+      charExist ? (() => { throw new AlreadyRegister(name); })() : null;
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       throw e;
     }
     try {
-      const validate = new NewCharValidations(image, name, age, weight, history);
-      return await this.#characterRepo.createChar(validate);
+      return await this.#characterRepo.createChar(char);
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       throw e;
     }
   }
@@ -59,7 +60,7 @@ export class CharacterService {
       await this.#characterRepo.deleteChar(id);
     } catch (e) {
       console.error(e);
-      logger.error(e);
+      // logger.error(e);
       throw e;
     }
   }

@@ -3,6 +3,7 @@ import { InvalidArgument } from '../../errors/InvalidArgument.js';
 import { MediaUpdateValidations } from '../../validations/mediaUpdate.validations.js';
 import { NewMediaValidations } from '../../validations/newMedia.validations.js';
 import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
+import { NotFound } from '../../errors/NotFound.js';
 //errores
 
 
@@ -26,6 +27,7 @@ export class MediaService {
 
   async getMediaWithChars(id, entity) {
     try {
+      if (!id) throw new InvalidArgument('id');
       return await this.#mediaRepository.getMediaWithChars(id, entity);
     } catch (e) {
       // logger.error(e);
@@ -35,7 +37,9 @@ export class MediaService {
   }
 
   async getMediaByTitleAndGenre({ title, genre = false, order = false }, entity) {
+    console.log(title);
     try {
+      if (!title) throw new InvalidArgument('title');
       return await this.#mediaRepository.getMediaByTitleAndGenre(title, genre, order, entity)
     } catch (e) {
       // logger.error(e);
@@ -46,6 +50,8 @@ export class MediaService {
 
   async addCharacter(id, idC, entity) {
     try {
+      if (!id) throw new InvalidArgument('id movie');
+      if (!idC) throw new InvalidArgument('id character');
       const char = await this.#characterRepository.getOneById(idC);
       await this.#mediaRepository.addCharacters(id, char, entity);
       return char;
@@ -57,16 +63,17 @@ export class MediaService {
   }
 
   async createMedia({ image, title, createDate, rating, genre }, entity) { // + valores del objeto
+    let media;
     try {
-      const media = await this.#mediaRepository.getMediaByTitle(title, entity, false);
-      if (media) throw new AlreadyRegister(title);
+      media = new NewMediaValidations(image, title, createDate, rating, genre);
+      const mediaExist = await this.#mediaRepository.getMediaByTitle(title, entity, false);
+      if (mediaExist) throw new AlreadyRegister(title);
     } catch (e) {
       // logger.error(e);
       console.error(e);
       throw e;
     }
     try {
-      const media = new NewMediaValidations(image, title, createDate, rating, genre);
       return await this.#mediaRepository.createMedia(media, entity);
     } catch (e) {
       // logger.error(e);
@@ -91,6 +98,7 @@ export class MediaService {
 
   async deleteMedia(id, entity) {
     try {
+      if (!id) throw new InvalidArgument('id');
       await this.#mediaRepository.deleteMedia(id, entity);
     } catch (e) {
       // logger.error(e);

@@ -105,10 +105,11 @@ export class MediaRepository {
       if (!media) throw new NotFound(title);
 
       if (order) {
+        order = order.toLowerCase();
         if (order === 'increasing') {
-          media.sort((a, b) => a.date - b.date);
+          media.sort((a, b) => a.createDate - b.createDate);
         } else if (order === 'decreasing') {
-          media.sort((a, b) => b.date - a.date);
+          media.sort((a, b) => b.createDate - a.createDate);
         } else {
           throw new InvalidArgument('Order incorrect');
         }

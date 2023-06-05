@@ -27,9 +27,10 @@ export class MediaController {
     }
   }
 
-  async getMediaByTitleAndGenre({ entity, body }, res, next) {
+  // async getMediaByTitleAndGenre({ entity, params }, res, next) {
+  async getMediaByTitleAndGenre({ entity, query }, res, next) {
     try {
-      const media = await mediaService.getMediaByTitleAndGenre(body, entity);
+      const media = await mediaService.getMediaByTitleAndGenre(query, entity);
       res.status(200).json({ Media: media });
     } catch (e) {
       // logger.error(e);
