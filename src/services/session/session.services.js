@@ -10,7 +10,7 @@ export class SessionService {
   }
 
   async register({ name, lastname, email, password }) {
-    try {
+    try { // registro de usuario
       const pass = encryptPassword(password);
       const user = await this.#sessionRepo.createUser(email, pass, name, lastname);
       const token = generateToken(user);
@@ -25,7 +25,7 @@ export class SessionService {
   }
 
   async authenticate({ email, password }) {
-    try {
+    try { // autenticacion de usuario
       const user = await comparePassword(email, password);
       if (!user) throw new Unauthorized('Invalid credentials');
       return generateToken(user);

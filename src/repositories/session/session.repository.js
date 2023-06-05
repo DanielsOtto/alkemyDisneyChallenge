@@ -9,7 +9,7 @@ export class SesssionRepository {
   }
 
   async createUser(email, password, name, lastname) {
-    try {
+    try { // guarda usuario en la bd
       const user = await this.findByEmail(email, false);
       if (user) throw new AlreadyRegister(email);
     } catch (e) {
@@ -33,7 +33,7 @@ export class SesssionRepository {
   }
 
   async findByEmail(email, validate = true) {
-    try {
+    try { //busca usuario en la bd
       const user = await this.#sessionTable.findOne({
         where: {
           email: email

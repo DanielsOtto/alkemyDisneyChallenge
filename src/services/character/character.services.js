@@ -4,7 +4,7 @@ import { CharUpdateValidations } from '../../validations/charUpdate.validations.
 import { NewCharValidations } from '../../validations/newChar.validations.js';
 import { AlreadyRegister } from '../../errors/AlreadyRegister.js';
 import { InvalidFormat } from '../../errors/InvalidFormat.js';
-// manejo de errores
+
 
 export class CharacterService {
   #characterRepo;
@@ -13,78 +13,72 @@ export class CharacterService {
   }
 
   async getAllChars() {
-    try {
+    try {// retorna todos los personajes
       return await this.#characterRepo.getAllChars();
     } catch (e) {
-      console.error(e);
-      // logger.error(e);
+      logger.error(e);
       throw e;
     }
   }
 
   async getCharAndMedia(id) {
-    try {
+    try { // retorna todos los personajes con sus peliculas/series
       if (!id) throw new InvalidArgument('id');
       return await this.#characterRepo.getCharAndMedia(id);
     } catch (e) {
-      // logger.error(e);
-      console.error(e);
+      logger.error(e);
       throw e;
     }
   }
 
   async getCharByNameAndFilter({ name, age, weight }) {
-    try {
+    try {// retorna todos los personajes por nombre + filtra por edad / peso + retorna sus peliculas/series
       if (typeof name !== 'string') throw new InvalidFormat('Name must be a string');
       if (!name) throw new InvalidArgument('name');
       return await this.#characterRepo.getCharByNameAndFilter(name, age, weight);
     } catch (e) {
-      // logger.error(e);
-      console.error(e);
+      logger.error(e);
       throw e;
     }
   }
 
   async createChar({ image, name, age, weight, history }) {
     let char;
-    try {
+    try {  // valida los datos del personaje y que no exista en la db
       char = new NewCharValidations(image, name, age, weight, history);
       const charExist = await this.#characterRepo.getOneByName(name, false);
       charExist ? (() => { throw new AlreadyRegister(name); })() : null;
     } catch (e) {
-      console.error(e);
-      // logger.error(e);
+      logger.error(e);
       throw e;
     }
-    try {
+    try {// guarda un personaje
       return await this.#characterRepo.createChar(char);
     } catch (e) {
-      console.error(e);
-      // logger.error(e);
+      logger.error(e);
       throw e;
     }
   }
 
   async updateChar(id, { image, name, age, weight, history }) {
-    try {
+    try { // actualiza un personaje
       if (!id) throw new InvalidArgument('id');
       const char = await this.#characterRepo.getOneById(id);
       const newChar = new CharUpdateValidations(char, image, name, age, weight, history);
       await this.#characterRepo.updateChar(id, newChar);
+      return newChar; //retorna el personaje modificado
     } catch (e) {
-      console.error(e);
-      // logger.error(e);
+      logger.error(e);
       throw e;
     }
   }
 
   async deleteChar(id) {
-    try {
+    try {// elimina un personaje, requiere id por params
       if (!id) throw new InvalidArgument('id');
       await this.#characterRepo.deleteChar(id);
     } catch (e) {
-      console.error(e);
-      // logger.error(e);
+      logger.error(e);
       throw e;
     }
   }

@@ -7,6 +7,5 @@ const server = createServer();
 try {
   await server.connect(PORT);
 } catch (e) {
-  console.error(e); // sacar al final
   logger.error(e);
 }

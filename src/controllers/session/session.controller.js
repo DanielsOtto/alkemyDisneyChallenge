@@ -5,7 +5,7 @@ import sessionService from '../../services/session/index.js';
 export class SessionController {
 
   async register({ body }, res, next) {
-    try {
+    try { // registro de usuario
       const obj = await sessionService.register(body);
       res.status(201).header('Authorization', obj.token).json({ created: obj.user });
     } catch (e) {
@@ -15,7 +15,7 @@ export class SessionController {
   }
 
   async authenticate({ body }, res, next) {
-    try {
+    try { // autenticacion de usuario
       const token = await sessionService.authenticate(body);
       res.status(200).header('Authorization', token).json({ Authorized: token });
     } catch (e) {

@@ -10,7 +10,6 @@ export function auth(req, res, next) {
     token = req.header('Authorization');
   }
 
-  console.log(token);
   try {
     if (!token) {
       throw new ForbiddenAccess();
@@ -20,7 +19,6 @@ export function auth(req, res, next) {
       next();
     }
   } catch (e) {
-    console.error(e);
     logger.error(e);
     next(e);
   }

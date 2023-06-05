@@ -1,6 +1,5 @@
 import { DataTypes } from 'sequelize';
 import db from '../database/sequelize.db.js';
-// ID creado por el modelo
 
 const User = db.define('User', {
     id: {

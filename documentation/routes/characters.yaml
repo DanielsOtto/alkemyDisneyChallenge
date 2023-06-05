@@ -73,7 +73,7 @@ paths:
               $ref: "#/components/schemas/Character"
       responses:
         "200":
-          description: Character updated successfully.
+          description: Return character updated.
         "400":
           description: Invalid argument.
         "403":
